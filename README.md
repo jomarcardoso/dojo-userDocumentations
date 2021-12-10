@@ -17,6 +17,8 @@ Há diversas maneiras de determinar como satisfazer suas necessidades com sua do
 
 Essa doc será consumida por pessoas dentro de um time numa empresa, ou pelo público em geral num projeto open source? É preciso adaptar o nível técnico ou detalhamento de acordo com o contexto de quem lerá, mantendo o texto tão didático quanto possível. Lembre-se de que o óbvio é relativo; às vezes, achamos que qualquer um entende aquilo que consideramos simples, mas isso nem sempre é verdade (alô, síndrome do impostor!).
 
+Após identificadas as personas pode ser necessário criar documentações separadas.
+
 - Antecipar perguntas: É basicamente um exercício de empatia: tente antecipar as dúvidas que possam surgir ao longo do texto e já respondê-las no mesmo local de aparecimento.
 
 ## 3. Determine os formatos apropriados para a documentação
@@ -46,7 +48,9 @@ Reforçando esse ponto colocado anteriormente, evitar detalhes que podem facilme
 
 Peça a revisão de pessoas familiarizadas com o sistema documentado, pra que elas validem se você cobriu todos os pontos e se não esqueceu de nada. Depois, peça a revisão de pessoas não familiarizadas. Essa é a parte mais importante para simular como uma pessoa nova entenderá a documentação, e geralmente é onde se recebe mais feedbacks.
 
-### Título e primeiro parágrafo
+Os parágrafos de instruções devem iniciar com verbos dizendo o que ela precisa fazer: "Abra a válvula...", "Pressione o botão de emergência...", "Informe o seu supervisor...".
+
+### Título principal e primeiro parágrafo
 
 Procure escrever um título que já deixe claro do que se trata aquele texto. E caso a pessoa tenha alguma dúvida, o primeiro parágrafo serve de apoio para entender se é nesse documento que ela vai encontrar a informação que procura.
 
@@ -62,6 +66,16 @@ A melhor forma de apresentar o conteúdo pode variar dependendo do tipo de proce
 
 A esmagadora maioria das pessoas não lê, escaneia. Por isso, é preciso testar a eficácia daquela hierarquia de informação, verificando se é possível pular direto pra um tópico no meio do texto e entender o que está acontecendo ali. É isso que a maioria das pessoas fará na sua doc, por melhor escrita que ela esteja (sinceridade!).
 
+Usar lista com números quando a ordem é importante e com símbolos quando não é.
+
+Explicar se o usuário precisa completar passos anteriores àquele. Se for fazer um alerta, avise antes de dar a instrução, ou antes da lista onde tem a instrução.
+
+Não misturar instruções com informações contextuais, se for preciso contextualizar, fazer antes das instruções (exemplo redux que trouxe).
+
+Não escrever listas muito extensas, no máximo 10 itens. Se possível divida a lista em mais tópicos.
+
+Sempre deixar bem claro quando acabaram as instruções para o usuário não ficar se pergutando se falta alguma coisa ou para onde ele segue naquele momento.
+
 ### Detalhes que enriquecem
 
 Incluir links dos materiais usados como referência no final da doc é uma boa prática tanto para creditar os autores quanto para leitores que possam se interessar em conhecer melhor aqueles assuntos. Sempre que fizer uma referência a um conceito ou processo, como por exemplo Markdown, selecione um material complementar sobre aquele assunto e crie um link. Assim, uma pessoa que não saiba exatamente do que se trata ou queira detalhes pode consultar uma fonte selecionada por você, o que garante que vocês estarão na mesma página (pun intended).
@@ -75,7 +89,7 @@ Quando for possível, crie um exemplo de uso do processo descrito para ilustrar 
 
 Em docs mais técnicas, uma seção de Troubleshooting (solução de problemas) pode ser especialmente útil para documentar erros e obstáculos conhecidos e mostrar o caminho para contorná-los. É importante manter essa seção atualizada, visto que não é incomum passarmos mais tempo tentando solucionar bugs do que desenvolvendo de fato.
 
-Na maioria dos casos, é interessante que ao final do documento conste um canal de contato para sanar dúvidas e enviar sugestões. Se for um Readme no GitHub, essa seção também pode orientar sobre como e quando abrir uma issue no repositório. 
+Na maioria dos casos, é interessante que ao final do documento conste um canal de contato para sanar dúvidas e enviar sugestões. Se for um Readme no GitHub, essa seção também pode orientar sobre como e quando abrir uma issue no repositório.
 
 ## Dicas
 
