@@ -66,3 +66,5 @@ Não forçar o usuário a dar saltos de ida e volta na documentação para ele e
 Evitar fazer comentários que não agregam no entendimento do conteúdo do manual naquele momento. Por exemplo no caso da documentação do Redux, que hoje está mudada onde várias vezes eles paravam para explicar sobre funções puras e objetos simples e fazia quem lia pensar em assuntos que aquele conhecimento era necessário para poder prosseguir, então muitas vezes tinha que pesquisar em outro lugar para entender aqueles termos e perdia o foco do entendimento.
 
 Criar jornadas. Não ensine algo que prepare para outra coisa sendo que não será usado naquele momento, pois quando chegar a hora de usar o usuário pode ter esquecido. O mesmo exemplo do Redux que ensinava vários conceitos antes de começar, aí a última coisa que ensinavam era o Store que é a peça principal de uma aplicação feita em Redux. Se na documentação de como usar eles começassem diretamente pelo Store, o usuário poderia ir aplicando e melhorando conforme lê e ganha mais conhecimento.
+
+Se colocar no lugar do usuário. Se não consegue, peça que algum usuário leia e te dê o retorno.
