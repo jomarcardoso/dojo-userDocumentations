@@ -1,5 +1,14 @@
 # Documentação de bibliotecas de software e design systems para usuários finais
 
+Motivos para criar uma documentação para usuários:
+
+- diminuir custos de suporte
+- ajudar os usuários
+- para servir como ferramenta de marketing
+- para melhorar a imagem do produto
+
+Não use uma documentação para consertar um produto. Nesses casos pode ser necessário escrever muito, para avisar o usuário sobre todas as nuâncias e problemas que podem ocorrer. Melhores seu produto para que a documentação seja mais objetiva possível.
+
 
 ## 1. Determine os propósitos empresariais da documentação
 
@@ -8,6 +17,8 @@ Apesar da razão funcional ser ajudar usuários a entenderem a usar o aplicativo
 - Sob nenhuma circunstância, no entanto, a documentação deve substituir um design de interface ruim. Se uma tela de um aplicativo requer páginas e páginas de documentação para explicá-la, é melhor mudar o design para deixá-la mais intuitiva.
 
 ## 2. Entenda o público para o qual está escrevendo a documentação
+
+Não adianta escrever algo que não será usado. Entenda a pergunda dos seus usuários.
 
 Há diversas maneiras de determinar como satisfazer suas necessidades com sua documentação.
 
