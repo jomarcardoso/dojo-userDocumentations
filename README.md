@@ -9,16 +9,23 @@ Motivos para criar uma documentação para usuários:
 
 Não use uma documentação para consertar um produto. Nesses casos pode ser necessário escrever muito, para avisar o usuário sobre todas as nuâncias e problemas que podem ocorrer. Melhores seu produto para que a documentação seja mais objetiva possível.
 
-
 ## 1. Determine os propósitos empresariais da documentação
 
 Apesar da razão funcional ser ajudar usuários a entenderem a usar o aplicativo, há outros motivos também, como ajudar a anunciar o programa, melhorar a imagem da empresa, e, mais importante, reduzir custos de suporte técnico. Em alguns casos, a documentação é necessária para cumprir certos regulamentos ou outras exigências legais.
 
 - Sob nenhuma circunstância, no entanto, a documentação deve substituir um design de interface ruim. Se uma tela de um aplicativo requer páginas e páginas de documentação para explicá-la, é melhor mudar o design para deixá-la mais intuitiva.
 
+Um guia do usuário deve sempre responder a pergunta "como eu faço... ?" Então se o guia ficar muito extenso irá atrapalhar nessa resposta e um material auxiliar chamado manual de referência pode ser utilizado.
+
 ## 2. Entenda o público para o qual está escrevendo a documentação
 
-Não adianta escrever algo que não será usado. Entenda a pergunda dos seus usuários.
+Não adianta escrever algo que não será usado. Entenda a pergunda público alvo.
+
+Não esquecer da diferença de conhecimentos, a documentação deve servir tanto para pessoas experientes como as recém chegadas na empresa.
+
+Quando for escrever coloque-se no lugar do usuário principal.
+
+Você é um especialista que conhece os termos, as suposições e os atalhos da área de assunto. Não dê saltos lógicos ou de conteúdo que os não especialistas não entendam. Possivelmente, você deve "afirmar o óbvio", porque o público não conhece o assunto, no entanto, não forneça informações desnecessárias, então se uma frase for suficiente, não inclua uma página de capturas de tela.
 
 Há diversas maneiras de determinar como satisfazer suas necessidades com sua documentação.
 
@@ -60,6 +67,8 @@ Reforçando esse ponto colocado anteriormente, evitar detalhes que podem facilme
 Peça a revisão de pessoas familiarizadas com o sistema documentado, pra que elas validem se você cobriu todos os pontos e se não esqueceu de nada. Depois, peça a revisão de pessoas não familiarizadas. Essa é a parte mais importante para simular como uma pessoa nova entenderá a documentação, e geralmente é onde se recebe mais feedbacks.
 
 Os parágrafos de instruções devem iniciar com verbos dizendo o que ela precisa fazer: "Abra a válvula...", "Pressione o botão de emergência...", "Informe o seu supervisor...".
+
+Agrupe as procedimentos semelhantes, ordenando do mais usado para o menos usado. Em casos em que o "guia do usuário" e o "manual de referência" ficam no mesmo arquivo, pode dividir o arquivo em duas partes, começando pelo guia.
 
 ### Título principal e primeiro parágrafo
 
@@ -109,6 +118,10 @@ Na maioria dos casos, é interessante que ao final do documento conste um canal 
 - Assim como com outras documentações, essas capturas de tela devem ser inclusas para ajudar a explicar como o programa funciona, e não para impressionar o usuário.
 O tom é particularmente importante, especialmente ao escrever documentação para usuários finais. Chame-os de "você" ao invés de "usuários".
 
+## Conclusão
+
+Você não pode agradar a todos os usuários o tempo todo, no entanto, com uma avaliação cuidadosa dos usuários típicos e das tarefas que eles realizam, você pode criar uma documentação excelente que ajuda a maioria dos usuários. Essa documentação diminuirá seus custos de suporte e aumentará sua reputação.
+
 ## Referências
 
 https://pt.wikihow.com/Escrever-Documenta%C3%A7%C3%A3o-de-Software
@@ -118,6 +131,8 @@ http://www.softwaredocumentation.info/DocumentingSoftware.aspx
 http://www.techscribe.co.uk/ta/how-to-write-user-documentation.htm
 
 http://www.techscribe.co.uk/ta/how-to-write-instructions.htm
+
+https://www.techscribe.co.uk/techw/improving-instructions.htm
 
 Rodney Ruff, Omaha, NE; experiência em escrita técnica/autor de arquivos de ajuda desde 1997
 
