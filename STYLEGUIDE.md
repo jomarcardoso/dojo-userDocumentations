@@ -24,9 +24,18 @@ Canais de suporte: onde as pessoas podem obter ajuda com o sistema de design? On
 
 Ter uma sessão sobre treinamentos, tutoriais, palestras disponibilizados.
 
-## Páginas menores
+## Páginas de diretrizes
 
-- diretrizes - Padrões de projeto e conteção de código
-- diretrizes - suporte a tecnologias
-- diretrizes - acessibilidade
-- 
+- Padrões de projeto e conteção de código
+- suporte a tecnologias
+- acessibilidade
+
+## Páginas de foundation
+
+- Motion
+- cores
+- grid
+- tipografia
+- shape
+- ícones
+- temas
