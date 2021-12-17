@@ -1,17 +1,14 @@
-# Documentação de bibliotecas de software e design systems para usuários finais
+# Documentação de software para usuários 
 
-Motivos para criar uma documentação para usuários:
+Um guia de uso para usários ou manual do usuário tem como principal função ajudar os usuários a entenderam o seu produto. Um manual de software pode ser para apresentar uma aplicação, uma biblioteca, um design system, entre outros. Apesar de apresentarem as informações de forma diferente todos esses guias possuem assuntos comuns, como usuário alvo, objetivo do documento, formato a ser disponibilizado e vários elementos comuns como dúvidas comuns, suporte... 
 
-- diminuir custos de suporte
-- ajudar os usuários
-- para servir como ferramenta de marketing
-- para melhorar a imagem do produto
+Além de instruir o usuário a documentação serve também para divulgar o produto, melhorar a imagem dele e principalemente reduzir custos de suporte, que muitas vezes envolve o tempo dos desenvolvedores que trabalham no respectivo produto.
 
 Não use uma documentação para consertar um produto. Nesses casos pode ser necessário escrever muito, para avisar o usuário sobre todas as nuâncias e problemas que podem ocorrer. Melhores seu produto para que a documentação seja mais objetiva possível.
 
 ## 1. Determine os propósitos empresariais da documentação
 
-Apesar da razão funcional ser ajudar usuários a entenderem a usar o aplicativo, há outros motivos também, como ajudar a anunciar o programa, melhorar a imagem da empresa, e, mais importante, reduzir custos de suporte técnico. Em alguns casos, a documentação é necessária para cumprir certos regulamentos ou outras exigências legais.
+
 
 - Sob nenhuma circunstância, no entanto, a documentação deve substituir um design de interface ruim. Se uma tela de um aplicativo requer páginas e páginas de documentação para explicá-la, é melhor mudar o design para deixá-la mais intuitiva.
 
