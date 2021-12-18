@@ -1,16 +1,12 @@
 # Documentação de software para usuários 
 
-Um guia de uso para usários ou manual do usuário tem como principal função ajudar os usuários a entenderam o seu produto. Um manual de software pode ser para apresentar uma aplicação, uma biblioteca, um design system, entre outros. Apesar de apresentarem as informações de forma diferente todos esses guias possuem assuntos comuns, como usuário alvo, objetivo do documento, formato a ser disponibilizado e vários elementos comuns como dúvidas comuns, suporte... 
+Um guia de uso ou manual do usuário tem como principal função ajudar os usuários a entenderam o seu produto. Um manual de software pode ser para apresentar uma aplicação, uma biblioteca, um design system, entre outros. Apesar de apresentarem as informações de forma diferente todos esses guias possuem assuntos comuns, como usuário alvo, objetivo do documento, formato a ser disponibilizado e vários elementos comuns como dúvidas comuns, suporte... Além de instruir o usuário a documentação serve também para divulgar o produto, melhorar a imagem dele e principalemente reduzir custos de suporte, que muitas vezes envolve o tempo dos desenvolvedores que trabalham no respectivo produto.
 
-Além de instruir o usuário a documentação serve também para divulgar o produto, melhorar a imagem dele e principalemente reduzir custos de suporte, que muitas vezes envolve o tempo dos desenvolvedores que trabalham no respectivo produto.
+No entanto, uma documentação não deve ser feita com o objetivo de consertar um produto. Nesses casos pode ser necessário escrever muito para avisar o usuário sobre todas as nuâncias e problemas que podem ocorrer. Antes disso, melhore seu produto para que a documentação seja mais objetiva possível e sob nenhuma circunstância, deve substituir um mal planejamento. Se algo precisa de vários páginas para minimamente ser usado, é melhor repensar o componente daquele produto e torná-lo mais intuitivo.
 
-Não use uma documentação para consertar um produto. Nesses casos pode ser necessário escrever muito, para avisar o usuário sobre todas as nuâncias e problemas que podem ocorrer. Melhores seu produto para que a documentação seja mais objetiva possível.
+História do avião que precisava do manual das cores dos fios.
 
 ## 1. Determine os propósitos empresariais da documentação
-
-
-
-- Sob nenhuma circunstância, no entanto, a documentação deve substituir um design de interface ruim. Se uma tela de um aplicativo requer páginas e páginas de documentação para explicá-la, é melhor mudar o design para deixá-la mais intuitiva.
 
 Um guia do usuário deve sempre responder a pergunta "como eu faço... ?" Então se o guia ficar muito extenso irá atrapalhar nessa resposta e um material auxiliar chamado manual de referência pode ser utilizado.
 
