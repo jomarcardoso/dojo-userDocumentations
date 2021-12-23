@@ -8,15 +8,17 @@ História do avião que precisava do manual das cores dos fios.
 
 ## 1. Determine os propósitos empresariais da documentação
 
-Um guia do usuário deve sempre responder a pergunta "como eu faço... ?" Então se o guia ficar muito extenso irá atrapalhar nessa resposta e um material auxiliar chamado manual de referência pode ser utilizado.
+Um guia do usuário deve sempre responder a pergunta "como eu faço... ?" Então se o guia ficar muito extenso irá atrapalhar nessa resposta.
 
 ## 2. Entenda o público para o qual está escrevendo a documentação
 
-Não adianta escrever algo que não será usado. Entenda a pergunda público alvo.
+Não adianta escrever algo que não será usado. Entenda as perguntas do usuário, e quando for escrever, coloque-se no lugar dele.
 
-Não esquecer da diferença de conhecimentos, a documentação deve servir tanto para pessoas experientes como as recém chegadas na empresa.
+Outra coisa importante é identificar o conhecimento dos usuários. Essa doc será consumida por pessoas dentro de um time numa empresa, ou pelo público em geral num projeto open source? 
 
-Quando for escrever coloque-se no lugar do usuário principal.
+Após identificadas as personas pode ser necessário criar documentações separadas.
+
+O ideal de uma documentação é servir tanto para pessoas experientes como as recém chegadas na empresa, para isso, muitas vezes é preciso adaptar o nível técnico ou detalhamento de acordo com o contexto de quem lerá, mantendo o texto tão didático quanto possível para todos os públicos. Para essa documentação única deve-se sempre se atentar de que o "óbvio" é relativo; às vezes, achamos que qualquer um entende aquilo que consideramos simples, mas isso nem sempre é verdade.
 
 Você é um especialista que conhece os termos, as suposições e os atalhos da área de assunto. Não dê saltos lógicos ou de conteúdo que os não especialistas não entendam. Possivelmente, você deve "afirmar o óbvio", porque o público não conhece o assunto, no entanto, não forneça informações desnecessárias, então se uma frase for suficiente, não inclua uma página de capturas de tela.
 
@@ -26,25 +28,21 @@ Há diversas maneiras de determinar como satisfazer suas necessidades com sua do
 - Observe a documentação existente. A documentação de versões anteriores do software, bem como especificações funcionais, fornecem alguma indicação do que o usuário precisará saber para usar o programa. Tenha em mente, no entanto, que **usuários finais não se interessam em como o programa funciona, mas sim pelo que ele pode fazer por elas**.
 - Identifique as tarefas necessárias para realizar o trabalho e as que precisam ser realizadas antes delas.
 
-Essa doc será consumida por pessoas dentro de um time numa empresa, ou pelo público em geral num projeto open source? É preciso adaptar o nível técnico ou detalhamento de acordo com o contexto de quem lerá, mantendo o texto tão didático quanto possível. Lembre-se de que o óbvio é relativo; às vezes, achamos que qualquer um entende aquilo que consideramos simples, mas isso nem sempre é verdade (alô, síndrome do impostor!).
-
-Após identificadas as personas pode ser necessário criar documentações separadas.
 
 - Antecipar perguntas: É basicamente um exercício de empatia: tente antecipar as dúvidas que possam surgir ao longo do texto e já respondê-las no mesmo local de aparecimento.
 
 ## 3. Determine os formatos apropriados para a documentação
 
- A documentação de software pode ser estruturada em 1 ou 2 formatos, o guia de usuário e o manual de referência. Às vezes uma combinação de formatos é a melhor abordagem.
+A documentação de software pode ser estruturada em 1 ou 2 formatos, o manual de referência e o guia de usuário. Às vezes uma combinação de formatos é a melhor abordagem.
+
+O formato de manual de referência tem o objetivo de explicar as características individuais do produto, como cada elemento funciona. O manual pode ser usado
+junto ao produto, como uma dica de uso ou então em documentos mostrando essa mesma informação, com exemplos.
  
 Um formato de guia de usuário explica como usar o programa para realizar uma tarefas em particular. Os guias podem incluir tópicos para cada instrução, esses tópicos de ajuda geralmente são independentes do contexto, mas podem conter links para tópicos que sejam. Os guias de usuário geralmente tomam a forma de tutoriais, com um resumo das tarefas a serem realizadas na introdução e instruções dadas nos passos numerados.
- 
-O formato de manual de referência tem o objetivo de explicar as características individuais do produto, como cada elemento funciona. --- Muitos arquivos de ajuda são escritos nesse formato, que exibe um tópico relevante sempre que um usuário clicar no botão de ajuda de uma certa tela.
 
 ## 4. Decida quais formas a documentação deve tomar.
 
 A documentação de software para usuários finais pode tomar uma de várias ou diversas formas: manuais impressos, documentos PDF, arquivos de ajuda ou ajuda online. Cada forma é feita para mostrar ao usuário como usar cada uma das funções do programa, seja na forma de um walkthrough ou tutorial; no caso de arquivos de ajuda e ajuda online, pode-se incluir vídeos de demonstração, bem como texto e imagens.
-
-- **Arquivos de ajuda devem ser indexados e pesquisáveis por palavras chav**e para que os usuários encontrem a informação desejada rapidamente. Apesar de ferramentas de escrita poderem gerar índices automaticamente, é melhor fazê-lo manualmente, usando termos que os usuários provavelmente buscarão. O índice, ou "Table of contents" como muitos chamam, serve para facilitar a pré-visualização do conteúdo e também para navegação rápida no texto. Se a ferramenta permitir âncoras (links que levam a pontos da mesma página), abuse delas.
 
 ## 5. Como escrever
 
@@ -89,6 +87,12 @@ Não misturar instruções com informações contextuais, se for preciso context
 Não escrever listas muito extensas, no máximo 10 itens. Se possível divida a lista em mais tópicos.
 
 Sempre deixar bem claro quando acabaram as instruções para o usuário não ficar se pergutando se falta alguma coisa ou para onde ele segue naquele momento.
+
+### Índice e pesquisa
+
+Arquivos de ajuda devem ser indexados e pesquisáveis por palavras chave para que os usuários encontrem a informação desejada rapidamente. Apesar de ferramentas de escrita poderem gerar índices automaticamente, é melhor fazê-lo manualmente, usando termos que os usuários provavelmente buscarão.
+
+O índice, sumário ou tabela de conteúdos, serve para facilitar a pré-visualização do conteúdo e também para navegação rápida no texto.
 
 ### Detalhes que enriquecem
 
