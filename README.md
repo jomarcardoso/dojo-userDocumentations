@@ -34,10 +34,11 @@ Após identificadas as personas pode ser necessário criar documentações separ
 
 ## 3. Determine os formatos apropriados para a documentação
 
- A documentação de software pode ser estruturada em 1 ou 2 formatos, o manual de referência e guia de usuário. Às vezes uma combinação de formatos é a melhor abordagem.
+ A documentação de software pode ser estruturada em 1 ou 2 formatos, o guia de usuário e o manual de referência. Às vezes uma combinação de formatos é a melhor abordagem.
  
-- Um formato de manual de referência é devotado a explicar as características individuais de um aplicativo (botões, guias, campos e caixas de diálogo) e como elas funcionam. Muitos arquivos de ajuda são escritos nesse formato, que exibe um tópico relevante sempre que um usuário clicar no botão de ajuda de uma certa tela.
-- Um formato de guia de usuário explica como usar o programa para realizar uma tarefa em particular. Esses guias normalmente são impressos ou exibidos virtualmente em PDFs, apesar de alguns arquivos de ajuda incluírem tópicos de como realizar tarefas em particular (esses tópicos de ajuda geralmente não são sensíveis ao contexto, apesar deles poderem conter links para tópicos que sejam). Os guias de usuário geralmente tomam a forma de tutoriais, com um resumo das tarefas a serem realizadas na introdução e instruções dadas nos passos numerados.
+Um formato de guia de usuário explica como usar o programa para realizar uma tarefas em particular. Os guias podem incluir tópicos para cada instrução, esses tópicos de ajuda geralmente são independentes do contexto, mas podem conter links para tópicos que sejam. Os guias de usuário geralmente tomam a forma de tutoriais, com um resumo das tarefas a serem realizadas na introdução e instruções dadas nos passos numerados.
+ 
+O formato de manual de referência tem o objetivo de explicar as características individuais do produto, como cada elemento funciona. --- Muitos arquivos de ajuda são escritos nesse formato, que exibe um tópico relevante sempre que um usuário clicar no botão de ajuda de uma certa tela.
 
 ## 4. Decida quais formas a documentação deve tomar.
 
