@@ -35,10 +35,12 @@ Há diversas maneiras de determinar como satisfazer suas necessidades com sua do
 
 A documentação de software pode ser estruturada em 1 ou 2 formatos, o manual de referência e o guia de usuário. Às vezes uma combinação de formatos é a melhor abordagem.
 
-O formato de manual de referência tem o objetivo de explicar as características individuais do produto, como cada elemento funciona. O manual pode ser usado
-junto ao produto, como uma dica de uso ou então em documentos mostrando essa mesma informação, com exemplos.
+O formato de manual de referência tem o objetivo de explicar as características individuais do produto, como cada elemento funciona. Esse manual pode ser usado
+junto ao produto, como uma dica de uso ou um informações vindas de um botão de ajuda. Os manuais de referência podem também ser estruturados na forma de documentos, assim ter as informações de cada elemento do produto em um só lugar. Essa abordagem de centralizar o conteúdo exige que o conteúdo seja indexado, conter exemplos práticos e se possível ter uma forma de busca. Manuais de referência são muito comuns nas universidades para instruir os estudantes na escrita de seus artigos seguindo os padrões que a universidade exige https://www.unaerp.br/arquivos/manual_referenciatc.pdf.
  
-Um formato de guia de usuário explica como usar o programa para realizar uma tarefas em particular. Os guias podem incluir tópicos para cada instrução, esses tópicos de ajuda geralmente são independentes do contexto, mas podem conter links para tópicos que sejam. Os guias de usuário geralmente tomam a forma de tutoriais, com um resumo das tarefas a serem realizadas na introdução e instruções dadas nos passos numerados.
+Um formato de guia de usuário explica como usar o programa para realizar uma tarefas em particular. Diferente do manual de referência o guia foca nos casos de uso do usuário e não nas partes isoladas do produto, por isso os guias geralmente tomam a forma de tutoriais, com um resumo das tarefas a serem realizadas na introdução e instruções dadas nos passos numerados. Muitas vezes o guia do usuário pode ter vídeos para cada tarefa, mostrando os passos que o usuário deve seguir, como um passo a passo de uma receita mostrada na TV.
+
+Geralmente cada tópico do guia é independente do seu contexto, focado apenas na atividade atual, para que o usuário consiga sem muita instrução periférica resolver o seu problema. Sempre que possível evite saltos de conteúdos, eles dificultam o entendimento, as vezes repetir um pouco do conteúdo é melhor que tirar o foco do usuário. Voltando no exemplo da receita, muito mais fácil toda a receita em um lugar do que buscar em cada página como se faz cada camada. Em casos em que precisa da realização de uma tarefa prévia ou a repetição de conteúdo ficar muito extensa é possível fazer links para esses outros materiais. Apesar de cada tópico ser autosuficiente deve-se oferecer ao usuário a possibilidade de visitar os manuais de referência dos elementos envolvidos na respectiva tarefa ou então ter links para outros guias complementares.
 
 ## 4. Decida quais formas a documentação deve tomar.
 
