@@ -74,21 +74,27 @@ Procure escrever um título que já deixe claro do que se trata aquele texto. E 
 
 ### Organização do conteúdo
 
-**Hierarquia da informação:** Quem tem contato com design já tem familiaridade com esse conceito: a idéia é estabelecer uma hierarquia visual para facilitar o entendimento rápido e localização das informações. A aplicação mais útil aqui é explorar a formatação do texto para criar níveis de título e subtítulo (como os headings de h1 a h6 no HTML), e assim agrupar conjuntos macro e micro de informações. Podemos também usar negrito, itálico e até mesmo cores (como o vermelho em pontos de atenção) para adicionar entonação ao texto, da mesma forma que faríamos no discurso falado.
+**Hierarquia da informação:**
 
 A melhor forma de apresentar o conteúdo pode variar dependendo do tipo de processo a ser descrito. Instruções passo a passo ficam mais claras se enumeradas; opções de ação sem ordem definida ficam bem organizadas em tópicos; um assunto menos técnico pode ficar bem resolvido com um FAQ, e assim por diante. Na dúvida, teste mais de um formato antes de definir.
 
-A esmagadora maioria das pessoas não lê, escaneia. Por isso, é preciso testar a eficácia daquela hierarquia de informação, verificando se é possível pular direto pra um tópico no meio do texto e entender o que está acontecendo ali. É isso que a maioria das pessoas fará na sua doc, por melhor escrita que ela esteja (sinceridade!).
 
-Usar lista com números quando a ordem é importante e com símbolos quando não é.
-
-Explicar se o usuário precisa completar passos anteriores àquele. Se for fazer um alerta, avise antes de dar a instrução, ou antes da lista onde tem a instrução.
 
 Não misturar instruções com informações contextuais, se for preciso contextualizar, fazer antes das instruções (exemplo redux que trouxe).
 
 Não escrever listas muito extensas, no máximo 10 itens. Se possível divida a lista em mais tópicos.
 
-Sempre deixar bem claro quando acabaram as instruções para o usuário não ficar se pergutando se falta alguma coisa ou para onde ele segue naquele momento.
+
+Instruções de passo a passo são aquelas que o usuário deve seguir uma sequência de atividades para poder concluir determinada tarefa. Essas instruções ficam mais claras quando enumeradas, pois nesse caso a ordem é importante e uma instrução só pode ser concluída após a outra. Uma etapa pode ser pulada caso o usuário já tenha feito ela em outro momento ou ela seja opcional. Mas atenção, uma etapa opcional não são informações adicionais e sim um passo a mais que terá um resultado final diferente.
+
+O começo e o fim das instruções devem ser bem definidos, iniciando por um título que descreve a instrução e ao fim sempre deixar bem claro quando acabaram as instruções para o usuário não ficar se pergutando se falta alguma coisa ou para onde ele segue naquele momento.
+
+A maioria das pessoas não irá ler a documentação e sim, escaneá-la para rapidamente encontrar o que precisa. Por isso é importante estabelecer uma hierarquia visual para facilitar o entendimento rápido e localização das informações. Após isso, deve-se testar a eficácia da hierarquia definida, verificando se é possível pular direto pra um tópico no meio do texto e entender o que está acontecendo ali. Muitas vezes numa instrução será preciso explicar ao usuário que ele precisa completar passos anteriores àquele para continuar sua tarefa e isso deve ficar claro no início da etapa.
+
+
+
+
+ A aplicação mais útil aqui é explorar a formatação do texto para criar níveis de título e subtítulo (como os headings de h1 a h6 no HTML), e assim agrupar conjuntos macro e micro de informações. Podemos também usar negrito, itálico e até mesmo cores (como o vermelho em pontos de atenção) para adicionar entonação ao texto, da mesma forma que faríamos no discurso falado.
 
 ### Índice e pesquisa
 
