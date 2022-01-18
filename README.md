@@ -6,6 +6,28 @@ No entanto, uma documentação não deve ser feita com o objetivo de consertar u
 
 História do avião que precisava do manual das cores dos fios.
 
+## História
+
+Antes dos sumérios desenvolverem a escrita, por volta de 3500 a.C., a maneira de transmitir o conhecimento era oral.
+
+Quando o transmissor falecesse, ficaria a cargo dos ouvintes continuar a transmitir. Caso acontecesse alguma fatalidade com aquele povo, o conhecimento deixaria de existir.
+
+Falar da bíblia aqui.
+
+Infelizmente, várias empresas do século XXI têm o mesmo problema de povos da pré-escrita.
+
+A informação de sistemas complexos, aliada a códigos com grande débito técnico, é transmitida por via oral, formando silos de conhecimento em forma de colaboradores. Quando esses silos estão inacessíveis, fica a cargo dos desenvolvedores fazerem um trabalho de arqueólogo e escavar o código, no meio da sujeira, para tentar entender o que as pessoas que o escreveram queriam dizer.
+
+## Documentação de conhecimentos
+
+Conhecimento tácito é aquele que a pessoa adquiriu ao longo da vida, pela experiência. Geralmente é difícil de ser formalizado ou explicado a outra pessoa, pois é subjetivo e inerente às habilidades de uma pessoa.
+
+Conhecimento explícito é o conhecimento que já foi ou pode ser articulado, codificado e armazenado de alguma forma em alguma mídia. Ele pode ser prontamente transmitido para outras pessoas.
+
+Documentação é o conjunto de todos documentos, que são todas as fontes contendo informações que ajudem a tomar decisões, comuniquem decisões tomadas, registrem assuntos de interesse da organização ou do indivíduo.
+
+Tem como característica reunir informações escritas acumuladas numa série sucessiva de anotações, quando dizem respeito a uma organização ou a um indivíduo, assumem a característica de documento. O conjunto dos documentos passa a constituir a documentação, com fins comerciais, industriais, jurídicos, escolares, etc.
+
 ## 1. Determine os propósitos empresariais da documentação
 
 Um guia do usuário deve sempre responder a pergunta "como eu faço... ?" Então se o guia ficar muito extenso irá atrapalhar nessa resposta.
