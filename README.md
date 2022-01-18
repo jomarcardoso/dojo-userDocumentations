@@ -28,6 +28,24 @@ Documentação é o conjunto de todos documentos, que são todas as fontes conte
 
 Tem como característica reunir informações escritas acumuladas numa série sucessiva de anotações, quando dizem respeito a uma organização ou a um indivíduo, assumem a característica de documento. O conjunto dos documentos passa a constituir a documentação, com fins comerciais, industriais, jurídicos, escolares, etc.
 
+## Metodologia ágil e documentação
+
+Alguns dizem que software bem escrito não precisa ser documentado. Creio que boa parte disso é verdade, mas mesmo que um software possua uma ótima arquitetura e fortes laços com técnicas clean code, apenas os devs têm o controle do fonte e conhecimento em traduzir para uma linguagem de alto nível.
+
+Documentar o software faz parte do desenvolvimento do produto, mesmo em metodologias ágeis, que trazem no seu manifesto:
+
+De acordo com o manifesto ágil, o software em funcionamento deve ter mais prioridade do que uma documentação abrangente, mas isso, de forma alguma, tira a importância de documentar. Construir a documentação de um projeto é fundamental para a comunicação do cliente com o time e vice-versa.  
+
+Eis que pergunto, o software funciona bem sem a documentação dele? O valor da documentação é maior que o custo de criar e manter?
+
+Gerar documentação inicial pode ser um grande problema. A ideia inicial, até o fim da concepção, pode pivotar de tantas maneiras que irá demandar alto esforço para manter a documentação atualizada, ou até ser completamente descartada e refeita do zero.
+
+Então, opte por documentar na entrega. Uma observação que faço é a documentação de funcionalidade no fim da entrega, e não documentação de necessidade, essa sim precisa ser feita antes do desenvolvimento.
+
+## O que não documentar
+
+**O óbvio:** documentar algo apenas por ficar bonito na página principal da wiki da empresa não irá valer a pena, não irá agregar valor e será mais uma informação para manter (ou esquecer).
+
 ## 1. Determine os propósitos empresariais da documentação
 
 Um guia do usuário deve sempre responder a pergunta "como eu faço... ?" Então se o guia ficar muito extenso irá atrapalhar nessa resposta.
@@ -165,6 +183,16 @@ https://www.techscribe.co.uk/techw/improving-instructions.htm
 Rodney Ruff, Omaha, NE; experiência em escrita técnica/autor de arquivos de ajuda desde 1997
 
 https://medium.com/larimaza-pt/como-escrever-boas-documenta%C3%A7%C3%B5es-b36131d78f7c
+
+https://pt.wikipedia.org/wiki/Conhecimento_expl%C3%ADcito
+
+https://pt.wikipedia.org/wiki/Conhecimento_t%C3%A1cito
+
+https://blog.geekhunter.com.br/qual-e-a-importancia-da-documentacao-de-software/
+
+https://blog.db1.com.br/projetos-ageis-documentar-ou-nao/
+
+http://www.agilemodeling.com/essays/agileDocumentationBestPractices.htm
 
 ## Minhas teorias
 
