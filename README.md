@@ -42,6 +42,8 @@ Gerar documentação inicial pode ser um grande problema. A ideia inicial, até 
 
 Então, opte por documentar na entrega. Uma observação que faço é a documentação de funcionalidade no fim da entrega, e não documentação de necessidade, essa sim precisa ser feita antes do desenvolvimento.
 
+Os agilistas escrevem a documentação quando essa é a melhor maneira de atingir as metas relevantes.
+
 ## O que não documentar
 
 **O óbvio:** documentar algo apenas por ficar bonito na página principal da wiki da empresa não irá valer a pena, não irá agregar valor e será mais uma informação para manter (ou esquecer).
