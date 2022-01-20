@@ -1,3 +1,5 @@
+parei aqui 2.3 http://www.agilemodeling.com/essays/agileDocumentationBestPractices.htm
+
 # Documentação de software para usuários 
 
 Um guia de uso ou manual do usuário tem como principal função ajudar os usuários a entenderam o seu produto. Um manual de software pode ser para apresentar uma aplicação, uma biblioteca, um design system, entre outros. Apesar de apresentarem as informações de forma diferente todos esses guias possuem assuntos comuns, como usuário alvo, objetivo do documento, formato a ser disponibilizado e vários elementos comuns como dúvidas comuns, suporte... Além de instruir o usuário a documentação serve também para divulgar o produto, melhorar a imagem dele e principalemente reduzir custos de suporte, que muitas vezes envolve o tempo dos desenvolvedores que trabalham no respectivo produto.
@@ -44,9 +46,11 @@ Então, opte por documentar na entrega. Uma observação que faço é a document
 
 Os agilistas escrevem a documentação quando essa é a melhor maneira de atingir as metas relevantes.
 
-Como você vê na Figura 1, a estratégia ágil é adiar a criação de todos os documentos o mais tarde possível, criando-os antes de precisar deles por meio de uma prática chamada "documento atrasado". Por exemplo, as visões gerais do sistema são melhor escritas no final do desenvolvimento de uma versão porque você sabe o que realmente construiu.
+Como você vê na Figura 1, a estratégia ágil é adiar a criação de todos os documentos o mais tarde possível, criando-os antes de precisar deles por meio de uma prática chamada "documento atrasado". Por exemplo, as visões gerais do sistema são melhor escritas no final do desenvolvimento de uma versão porque você sabe o que realmente construiu. Da mesma forma, a maioria da documentação de usuário e suporte também é melhor escrita no final do ciclo de vida
 
 ![image](https://user-images.githubusercontent.com/27368585/150263512-b97ef20f-5ac9-476f-81ad-0b656cdcb84a.png)
+
+Ao esperar para documentar as informações depois de estabilizadas, você reduz tanto o custo quanto o risco associado à documentação. O custo é reduzido porque você não perderá tempo documentando informações que mudam, o que, por sua vez, o motiva a atualizar a documentação. O risco é reduzido porque há uma chance significativamente menor de que sua documentação existente esteja desatualizada.
 
 ## O que não documentar
 
@@ -119,6 +123,14 @@ Procure escrever um título que já deixe claro do que se trata aquele texto. E 
 > Este documento é um guia de referência para descobertas recentes e novas práticas que devem ser disseminadas em nosso projeto para continuamente melhorar a acessibilidade do mobile app. Neste momento, nossos esforços estão focados nos leitores de tela VoiceOver (iOS) e TalkBack (Android).
 
 ### Organização do conteúdo
+
+Trazer sempre a informação mais simples e objetiva primeiro.
+
+ O documento grande provavelmente teria a maioria das informações necessárias para manter e aprimorar seu sistema, mas você confiaria nas informações contidas nele? O documento mais curto provavelmente não conteria as informações detalhadas de que você precisa, mas forneceria um mapa de onde você poderia mergulhar no código-fonte ou em outros documentos para obter detalhes.
+ 
+ Você deve se esforçar para viajar o mais leve possível, escrevendo apenas na documentação suficiente para a situação em questão, que é apenas boa o suficiente para cumprir seu propósito.
+ 
+ Fazer link de conteúdos e não repetí-los, isso evita uma sobrescrita de informações desatualizadas. (ver sobre evitar saltos)
 
 **Hierarquia da informação:**
 
