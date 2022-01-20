@@ -44,6 +44,10 @@ Então, opte por documentar na entrega. Uma observação que faço é a document
 
 Os agilistas escrevem a documentação quando essa é a melhor maneira de atingir as metas relevantes.
 
+Como você vê na Figura 1, a estratégia ágil é adiar a criação de todos os documentos o mais tarde possível, criando-os antes de precisar deles por meio de uma prática chamada "documento atrasado". Por exemplo, as visões gerais do sistema são melhor escritas no final do desenvolvimento de uma versão porque você sabe o que realmente construiu.
+
+![image](https://user-images.githubusercontent.com/27368585/150263512-b97ef20f-5ac9-476f-81ad-0b656cdcb84a.png)
+
 ## O que não documentar
 
 **O óbvio:** documentar algo apenas por ficar bonito na página principal da wiki da empresa não irá valer a pena, não irá agregar valor e será mais uma informação para manter (ou esquecer).
@@ -132,9 +136,6 @@ Instruções de passo a passo são aquelas que o usuário deve seguir uma sequê
 O começo e o fim das instruções devem ser bem definidos, iniciando por um título que descreve a instrução e ao fim sempre deixar bem claro quando acabaram as instruções para o usuário não ficar se pergutando se falta alguma coisa ou para onde ele segue naquele momento.
 
 A maioria das pessoas não irá ler a documentação e sim, escaneá-la para rapidamente encontrar o que precisa. Por isso é importante estabelecer uma hierarquia visual para facilitar o entendimento rápido e localização das informações. Após isso, deve-se testar a eficácia da hierarquia definida, verificando se é possível pular direto pra um tópico no meio do texto e entender o que está acontecendo ali. Muitas vezes numa instrução será preciso explicar ao usuário que ele precisa completar passos anteriores àquele para continuar sua tarefa e isso deve ficar claro no início da etapa.
-
-
-
 
  A aplicação mais útil aqui é explorar a formatação do texto para criar níveis de título e subtítulo (como os headings de h1 a h6 no HTML), e assim agrupar conjuntos macro e micro de informações. Podemos também usar negrito, itálico e até mesmo cores (como o vermelho em pontos de atenção) para adicionar entonação ao texto, da mesma forma que faríamos no discurso falado.
 
