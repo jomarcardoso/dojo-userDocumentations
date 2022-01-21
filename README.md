@@ -1,10 +1,11 @@
-parei aqui 2.3 http://www.agilemodeling.com/essays/agileDocumentationBestPractices.htm
+parei aqui 5 http://www.agilemodeling.com/essays/agileDocumentationBestPractices.htm
 
 # Documentação de software para usuários 
 
 Um guia de uso ou manual do usuário tem como principal função ajudar os usuários a entenderam o seu produto. Um manual de software pode ser para apresentar uma aplicação, uma biblioteca, um design system, entre outros. Apesar de apresentarem as informações de forma diferente todos esses guias possuem assuntos comuns, como usuário alvo, objetivo do documento, formato a ser disponibilizado e vários elementos comuns como dúvidas comuns, suporte... Além de instruir o usuário a documentação serve também para divulgar o produto, melhorar a imagem dele e principalemente reduzir custos de suporte, que muitas vezes envolve o tempo dos desenvolvedores que trabalham no respectivo produto.
 
-No entanto, uma documentação não deve ser feita com o objetivo de consertar um produto. Nesses casos pode ser necessário escrever muito para avisar o usuário sobre todas as nuâncias e problemas que podem ocorrer. Antes disso, melhore seu produto para que a documentação seja mais objetiva possível e sob nenhuma circunstância, deve substituir um mal planejamento. Se algo precisa de vários páginas para minimamente ser usado, é melhor repensar o componente daquele produto e torná-lo mais intuitivo.
+Você tem a missão de fazer seu produto ser entendido pelo seus clientes, a documentação então deve servir como um instrumento para isso e não apenas serem páginas sem uso.
+Por isso também, uma documentação não deve ser feita com o objetivo de consertar um produto, nesses casos pode ser necessário escrever muito para avisar o usuário sobre todas as nuâncias e problemas que podem ocorrer. Antes disso, melhore seu produto para que a documentação seja mais objetiva possível e sob nenhuma circunstância, deve substituir um mal planejamento. Se algo precisa de vários páginas para minimamente ser usado, é melhor repensar o elemento daquele produto e torná-lo mais intuitivo.
 
 História do avião que precisava do manual das cores dos fios.
 
@@ -52,6 +53,10 @@ Como você vê na Figura 1, a estratégia ágil é adiar a criação de todos os
 
 Ao esperar para documentar as informações depois de estabilizadas, você reduz tanto o custo quanto o risco associado à documentação. O custo é reduzido porque você não perderá tempo documentando informações que mudam, o que, por sua vez, o motiva a atualizar a documentação. O risco é reduzido porque há uma chance significativamente menor de que sua documentação existente esteja desatualizada.
 
+Assim como no desenvolvimento ágil a documentação também pode ter seus ciclos, onde se escreve, apresenta, recebe os comentários e age sobre eles. Essa prática previne de se afastar do que seus clientes realmente precisam.
+
+Assim como qualquer produto no modelo ágil, a documentação não precisa ser perfeita, apenas boa o suficiente, então muitas vezes ela estará desatualizada em alguns pontos.
+
 ## O que não documentar
 
 **O óbvio:** documentar algo apenas por ficar bonito na página principal da wiki da empresa não irá valer a pena, não irá agregar valor e será mais uma informação para manter (ou esquecer).
@@ -61,6 +66,8 @@ Ao esperar para documentar as informações depois de estabilizadas, você reduz
 Um guia do usuário deve sempre responder a pergunta "como eu faço... ?" Então se o guia ficar muito extenso irá atrapalhar nessa resposta.
 
 ## 2. Entenda o público para o qual está escrevendo a documentação
+
+Você deve estar próximo do seu público, deve ouvir as necessidades deles e entender o que eles realmente precisam.
 
 Não adianta escrever algo que não será usado. Entenda as perguntas do usuário, e quando for escrever, coloque-se no lugar dele.
 
@@ -171,6 +178,10 @@ Quando for possível, crie um exemplo de uso do processo descrito para ilustrar 
 Em docs mais técnicas, uma seção de Troubleshooting (solução de problemas) pode ser especialmente útil para documentar erros e obstáculos conhecidos e mostrar o caminho para contorná-los. É importante manter essa seção atualizada, visto que não é incomum passarmos mais tempo tentando solucionar bugs do que desenvolvendo de fato.
 
 Na maioria dos casos, é interessante que ao final do documento conste um canal de contato para sanar dúvidas e enviar sugestões. Se for um Readme no GitHub, essa seção também pode orientar sobre como e quando abrir uma issue no repositório.
+
+## Divulgação
+
+Não importa o quão bem escrita é a documentação se ninguém sabe que ela existe.
 
 ## Dicas
 
