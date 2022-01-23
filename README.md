@@ -11,9 +11,7 @@ História do avião que precisava do manual das cores dos fios.
 
 O primeiro e mais importante marco da sociedade para a criação das documentações foi a criação da escrita Cuneiforme entre 4000 e 3200 a.C. Antes dos sumérios desenvolverem a escrita, a maneira de transmitir o conhecimento dos povos pré-históricos era predominantemente oral e por isso havia poucos registros, além das pinturas rupestres, deixados por eles. Nessa época quando o transmissor falessia, ficaria a cargo dos ouvintes continuar a transmitir e caso acontecesse alguma fatalidade com aquele povo, o conhecimento todo deixaria de existir. Um exemplo de povo que passou por essa transição foi o povo hebreu que desde a sua origem com seu o patricar Abraão até antes de aproximarem dos egípcios não tinham o conhecimento da escrita e após Moisés aprender com os egípcios, fez um registro retroativo de tudo que foi passado para ele de forma oral, por isso essas histórias eram pobres em detalhes e com datas normalmente zeradas.
 
-Infelizmente, várias empresas do século XXI têm o mesmo problema de povos da pré-escrita.
-
-A informação de sistemas complexos, aliada a códigos com grande débito técnico, é transmitida por via oral, formando silos de conhecimento em forma de colaboradores. Quando esses silos estão inacessíveis, fica a cargo dos desenvolvedores fazerem um trabalho de arqueólogo e escavar o código, no meio da sujeira, para tentar entender o que as pessoas que o escreveram queriam dizer.
+Infelizmente, várias empresas do século XXI têm o mesmo problema de povos da pré-escrita. A informação de sistemas complexos, aliada a códigos com grande débito técnico, é transmitida por via oral, formando silos de conhecimento em forma de colaboradores. Quando esses silos estão inacessíveis, fica a cargo dos desenvolvedores fazerem um trabalho de arqueólogo e escavar o código, para tentar entender o que as pessoas que o escreveram queriam dizer.
 
 ## Documentação de conhecimentos
 
