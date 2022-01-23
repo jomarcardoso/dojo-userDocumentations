@@ -1,5 +1,3 @@
-parei aqui 5 http://www.agilemodeling.com/essays/agileDocumentationBestPractices.htm
-
 # Documentação de software para usuários 
 
 Um guia de uso ou manual do usuário tem como principal função ajudar os usuários a entenderam o seu produto. Um manual de software pode ser para apresentar uma aplicação, uma biblioteca, um design system, entre outros. Apesar de apresentarem as informações de forma diferente todos esses guias possuem assuntos comuns, como usuário alvo, objetivo do documento, formato a ser disponibilizado e vários elementos comuns como dúvidas comuns, suporte... Além de instruir o usuário a documentação serve também para divulgar o produto, melhorar a imagem dele e principalemente reduzir custos de suporte, que muitas vezes envolve o tempo dos desenvolvedores que trabalham no respectivo produto.
@@ -11,11 +9,7 @@ História do avião que precisava do manual das cores dos fios.
 
 ## História
 
-Antes dos sumérios desenvolverem a escrita, por volta de 3500 a.C., a maneira de transmitir o conhecimento era oral.
-
-Quando o transmissor falecesse, ficaria a cargo dos ouvintes continuar a transmitir. Caso acontecesse alguma fatalidade com aquele povo, o conhecimento deixaria de existir.
-
-Falar da bíblia aqui.
+O primeiro e mais importante marco da sociedade para a criação das documentações foi a criação da escrita Cuneiforme entre 4000 e 3200 a.C. Antes dos sumérios desenvolverem a escrita, a maneira de transmitir o conhecimento dos povos pré-históricos era predominantemente oral e por isso havia poucos registros, além das pinturas rupestres, deixados por eles. Nessa época quando o transmissor falessia, ficaria a cargo dos ouvintes continuar a transmitir e caso acontecesse alguma fatalidade com aquele povo, o conhecimento todo deixaria de existir. Um exemplo de povo que passou por essa transição foi o povo hebreu que desde a sua origem com seu o patricar Abraão até antes de aproximarem dos egípcios não tinham o conhecimento da escrita e após Moisés aprender com os egípcios, fez um registro retroativo de tudo que foi passado para ele de forma oral, por isso essas histórias eram pobres em detalhes e com datas normalmente zeradas.
 
 Infelizmente, várias empresas do século XXI têm o mesmo problema de povos da pré-escrita.
 
