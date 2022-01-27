@@ -29,17 +29,14 @@ Documentação é o conjunto de todos documentos, que são todas as fontes conte
 
 ## Metodologia ágil e documentação
 
-Alguns dizem que software bem escrito não precisa ser documentado. Creio que boa parte disso é verdade, mas mesmo que um software possua uma ótima arquitetura e fortes laços com técnicas clean code, apenas os devs têm o controle do fonte e conhecimento em traduzir para uma linguagem de alto nível.
+O Manifesto Ágil foi um marco para a organização e planejamento nos projetos de sofware. Ele veio solucionar o problema de planejar tudo no começo, executar e em algum momento perceber que o que está sendo feito não era o esperado. Do Manifesto Ágil também vem a frase "Software em funcionamento mais que documentação abrangente". Essa afirmação pode ser mal interpretada, como a documentação não ser algo importante, mas entendo o ágil, sabe-se que o objetivo é priorizar a entrega do produto antes de qualquer outra coisa e não como nos antigos modelos de projeto de sofware onde criava-se uma vasta documentação para só depois começar o desenvolvimento. Gerar documentação inicial pode ser um grande problema. A ideia inicial, até o fim da concepção, pode pivotar de tantas maneiras que irá demandar alto esforço para manter a documentação atualizada, ou até ser completamente descartada e refeita do zero. Tirando a documentação de especificações, opte por sempre documentar o produto no final.
 
-Documentar o software faz parte do desenvolvimento do produto, mesmo em metodologias ágeis, que trazem no seu manifesto:
 
-De acordo com o manifesto ágil, o software em funcionamento deve ter mais prioridade do que uma documentação abrangente, mas isso, de forma alguma, tira a importância de documentar. Construir a documentação de um projeto é fundamental para a comunicação do cliente com o time e vice-versa.  
+Baseado também no livro Código Limpo, alguns podem dizer que software bem escrito não precisa ser documentado, mas mesmo que um software possua uma ótima arquitetura e fortes laços com técnicas clean code, apenas os devs têm o controle do fonte e conhecimento em traduzir para uma linguagem de alto nível, então se o usuário do seu produto não tem acesso a esse código ou então terá dificuldades de entendê-lo a documentação será efetiva para o esclarecimento do que a aplicação faz.
+
+Documentar o software faz parte do desenvolvimento do produto, mesmo em metodologias ágeis, pois
 
 Eis que pergunto, o software funciona bem sem a documentação dele? O valor da documentação é maior que o custo de criar e manter?
-
-Gerar documentação inicial pode ser um grande problema. A ideia inicial, até o fim da concepção, pode pivotar de tantas maneiras que irá demandar alto esforço para manter a documentação atualizada, ou até ser completamente descartada e refeita do zero.
-
-Então, opte por documentar na entrega. Uma observação que faço é a documentação de funcionalidade no fim da entrega, e não documentação de necessidade, essa sim precisa ser feita antes do desenvolvimento.
 
 Os agilistas escrevem a documentação quando essa é a melhor maneira de atingir as metas relevantes.
 
