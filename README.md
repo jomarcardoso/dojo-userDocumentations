@@ -5,28 +5,25 @@ Um guia de uso ou manual do usuário tem como principal função ajudar os usuá
 Você tem a missão de fazer seu produto ser entendido pelo seus clientes, a documentação então deve servir como um instrumento para isso e não apenas serem páginas sem uso.
 Por isso também, uma documentação não deve ser feita com o objetivo de consertar um produto, nesses casos pode ser necessário escrever muito para avisar o usuário sobre todas as nuâncias e problemas que podem ocorrer. Antes disso, melhore seu produto para que a documentação seja mais objetiva possível e sob nenhuma circunstância, deve substituir um mal planejamento. Se algo precisa de vários páginas para minimamente ser usado, é melhor repensar o elemento daquele produto e torná-lo mais intuitivo.
 
+**Figura 1: Tupolev Tu-154**
 ![tupolev fora de controle](https://i.imgur.com/LVNzvxc.gif?noredirect)
 
-Nesse gif acima mostra um avião Tupolev Tu-154 que logo após a decolagem perdeu o controle e precisou retornar para um pouso forçado. Uma investigação concluiu que a causa da perda de controle foi um mau funcionamento do sistema de piloto automático. Aparentemente, um engenheiro o conectou incorretamente, causando estragos nos controles do avião, que segundo Lito do canal Aviões e Músicas, as cores dos fios eram intuitivas para serem ligadas "verde com verde", "vermelho com vermelho"... Porém no manual dizia que deveria ser ligado diferente, um bom exemplo de como o manual não é a forma mais segura e eficiente de solucionar os problemas do produto.
+Nesse gif da Figura 1 mostra um avião que logo após a decolagem perdeu o controle e precisou retornar para um pouso forçado. Uma investigação concluiu que a causa da perda de controle foi um mau funcionamento do sistema de piloto automático. Aparentemente, um engenheiro o conectou incorretamente, causando estragos nos controles do avião, que segundo Lito do canal Aviões e Músicas, as cores dos fios eram intuitivas para serem ligadas "verde com verde", "vermelho com vermelho"... Porém no manual dizia que deveria ser ligado diferente, um bom exemplo de como o manual não é a forma mais segura e eficiente de solucionar os problemas do produto.
 
 ## História
 
 O primeiro e mais importante marco da sociedade para a criação das documentações foi a criação da escrita Cuneiforme, Figura 1, entre 4000 e 3200 a.C. Antes dos sumérios desenvolverem a escrita, a maneira de transmitir o conhecimento dos povos pré-históricos era predominantemente oral e por isso havia poucos registros, além das pinturas rupestres, deixados por eles. Nessa época quando o transmissor falessia, ficaria a cargo dos ouvintes continuar a transmitir e caso acontecesse alguma fatalidade com aquele povo, o conhecimento todo deixaria de existir. Um exemplo de povo que passou por essa transição foi o povo hebreu que desde a sua origem com seu o patricar Abraão até antes de aproximarem dos egípcios não tinham o conhecimento da escrita e após Moisés aprender com os egípcios, fez um registro retroativo de tudo que foi passado para ele de forma oral, por isso essas histórias eram pobres em detalhes e com datas normalmente zeradas.
 
-**Figura 1**
+**Figura 2: escrita cuneiforme**
 ![exemplo de escrita cuneiforme na pedra](https://www.estudopratico.com.br/wp-content/uploads/2015/11/escrita-cuneiforme-1200x675.jpg)
 
 Infelizmente, várias empresas do século XXI têm o mesmo problema de povos da pré-escrita. A informação de sistemas complexos, aliada a códigos com grande débito técnico, é transmitida por via oral, formando silos de conhecimento em forma de colaboradores. Quando esses silos estão inacessíveis, fica a cargo dos desenvolvedores fazerem um trabalho de arqueólogo e escavar o código, para tentar entender o que as pessoas que o escreveram queriam dizer.
 
 ## Documentação de conhecimentos
 
-Conhecimento tácito é aquele que a pessoa adquiriu ao longo da vida, pela experiência. Geralmente é difícil de ser formalizado ou explicado a outra pessoa, pois é subjetivo e inerente às habilidades de uma pessoa.
+Antes de falarmos sobre o que podemos documentar, precisamos entender o conceito de conhecimento tácito e explícito, dividido pela filosofia. O conhecimento tácito é aquele que a pessoa adquiriu ao longo da vida, pela experiência. Geralmente é difícil de ser formalizado ou explicado a outra pessoa, pois é subjetivo e inerente às habilidades de uma pessoa. Já o conhecimento explícito é o conhecimento que já foi ou pode ser articulado, codificado e armazenado de alguma forma em alguma mídia. Ele pode ser prontamente transmitido para outras pessoas. Baseado nesse entendimento, entende-se que a documentação é a formalização dos conhecimentos que pode ser explicitado em alguma mídia. Para começar uma documentação é muito mais prático buscar todo conhecimento explícito, porém conforme avança a projeto de documentar, deve-se tentar formalizar qualquer conhecimento tácito sobre o produto e evitar casos em que somente alguns sabem mexer ou resolver um problema e ele não está descrito em lugar algum.
 
-Conhecimento explícito é o conhecimento que já foi ou pode ser articulado, codificado e armazenado de alguma forma em alguma mídia. Ele pode ser prontamente transmitido para outras pessoas.
-
-Documentação é o conjunto de todos documentos, que são todas as fontes contendo informações que ajudem a tomar decisões, comuniquem decisões tomadas, registrem assuntos de interesse da organização ou do indivíduo.
-
-Tem como característica reunir informações escritas acumuladas numa série sucessiva de anotações, quando dizem respeito a uma organização ou a um indivíduo, assumem a característica de documento. O conjunto dos documentos passa a constituir a documentação, com fins comerciais, industriais, jurídicos, escolares, etc.
+Documentação é o conjunto de todos documentos, que são todas as fontes contendo informações que ajudem a tomar decisões, comuniquem decisões tomadas, registrem assuntos de interesse da organização ou do indivíduo. Tem como característica reunir informações escritas acumuladas numa série sucessiva de anotações, quando dizem respeito a uma organização ou a um indivíduo, assumem a característica de documento. O conjunto dos documentos passa a constituir a documentação, com fins comerciais, industriais, jurídicos, escolares, etc.
 
 ## Metodologia ágil e documentação
 
