@@ -6,6 +6,7 @@ Você tem a missão de fazer seu produto ser entendido pelo seus clientes, a doc
 Por isso também, uma documentação não deve ser feita com o objetivo de consertar um produto, nesses casos pode ser necessário escrever muito para avisar o usuário sobre todas as nuâncias e problemas que podem ocorrer. Antes disso, melhore seu produto para que a documentação seja mais objetiva possível e sob nenhuma circunstância, deve substituir um mal planejamento. Se algo precisa de vários páginas para minimamente ser usado, é melhor repensar o elemento daquele produto e torná-lo mais intuitivo.
 
 **Figura 1: Tupolev Tu-154**
+
 ![tupolev fora de controle](https://i.imgur.com/LVNzvxc.gif?noredirect)
 
 Nesse gif da Figura 1 mostra um avião que logo após a decolagem perdeu o controle e precisou retornar para um pouso forçado. Uma investigação concluiu que a causa da perda de controle foi um mau funcionamento do sistema de piloto automático. Aparentemente, um engenheiro o conectou incorretamente, causando estragos nos controles do avião, que segundo Lito do canal Aviões e Músicas, as cores dos fios eram intuitivas para serem ligadas "verde com verde", "vermelho com vermelho"... Porém no manual dizia que deveria ser ligado diferente, um bom exemplo de como o manual não é a forma mais segura e eficiente de solucionar os problemas do produto.
@@ -15,6 +16,7 @@ Nesse gif da Figura 1 mostra um avião que logo após a decolagem perdeu o contr
 O primeiro e mais importante marco da sociedade para a criação das documentações foi a criação da escrita Cuneiforme, Figura 1, entre 4000 e 3200 a.C. Antes dos sumérios desenvolverem a escrita, a maneira de transmitir o conhecimento dos povos pré-históricos era predominantemente oral e por isso havia poucos registros, além das pinturas rupestres, deixados por eles. Nessa época quando o transmissor falessia, ficaria a cargo dos ouvintes continuar a transmitir e caso acontecesse alguma fatalidade com aquele povo, o conhecimento todo deixaria de existir. Um exemplo de povo que passou por essa transição foi o povo hebreu que desde a sua origem com seu o patricar Abraão até antes de aproximarem dos egípcios não tinham o conhecimento da escrita e após Moisés aprender com os egípcios, fez um registro retroativo de tudo que foi passado para ele de forma oral, por isso essas histórias eram pobres em detalhes e com datas normalmente zeradas.
 
 **Figura 2: escrita cuneiforme**
+
 ![exemplo de escrita cuneiforme na pedra](https://www.estudopratico.com.br/wp-content/uploads/2015/11/escrita-cuneiforme-1200x675.jpg)
 
 Infelizmente, várias empresas do século XXI têm o mesmo problema de povos da pré-escrita. A informação de sistemas complexos, aliada a códigos com grande débito técnico, é transmitida por via oral, formando silos de conhecimento em forma de colaboradores. Quando esses silos estão inacessíveis, fica a cargo dos desenvolvedores fazerem um trabalho de arqueólogo e escavar o código, para tentar entender o que as pessoas que o escreveram queriam dizer.
