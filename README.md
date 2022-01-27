@@ -7,7 +7,7 @@ Por isso também, uma documentação não deve ser feita com o objetivo de conse
 
 ![tupolev fora de controle](https://i.imgur.com/LVNzvxc.gif?noredirect)
 
-Uma investigação concluiu que a causa da perda de controle foi um mau funcionamento do sistema de piloto automático. Aparentemente, um engenheiro o conectou incorretamente, causando estragos nos controles do avião, que segundo Lito do canal Aviões e Músicas, as cores dos fios eram intuitivas para serem ligadas "verde com verde", "vermelho com vermelho"... Porém no manual dizia que deveria ser ligado diferente.
+Nesse gif acima mostra um avião que logo após a decolagem perdeu o controle e precisou retornar para um pouso forçado. Uma investigação concluiu que a causa da perda de controle foi um mau funcionamento do sistema de piloto automático. Aparentemente, um engenheiro o conectou incorretamente, causando estragos nos controles do avião, que segundo Lito do canal Aviões e Músicas, as cores dos fios eram intuitivas para serem ligadas "verde com verde", "vermelho com vermelho"... Porém no manual dizia que deveria ser ligado diferente, um bom exemplo de como o manual não é a forma mais segura e eficiente de solucionar os problemas do produto.
 
 ## História
 
