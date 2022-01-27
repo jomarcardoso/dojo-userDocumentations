@@ -31,16 +31,13 @@ Documentação é o conjunto de todos documentos, que são todas as fontes conte
 
 O Manifesto Ágil foi um marco para a organização e planejamento nos projetos de sofware. Ele veio solucionar o problema de planejar tudo no começo, executar e em algum momento perceber que o que está sendo feito não era o esperado. Do Manifesto Ágil também vem a frase "Software em funcionamento mais que documentação abrangente". Essa afirmação pode ser mal interpretada, como a documentação não ser algo importante, mas entendo o ágil, sabe-se que o objetivo é priorizar a entrega do produto antes de qualquer outra coisa e não como nos antigos modelos de projeto de sofware onde criava-se uma vasta documentação para só depois começar o desenvolvimento. Gerar documentação inicial pode ser um grande problema. A ideia inicial, até o fim da concepção, pode pivotar de tantas maneiras que irá demandar alto esforço para manter a documentação atualizada, ou até ser completamente descartada e refeita do zero. Tirando a documentação de especificações, opte por sempre documentar o produto no final.
 
+Baseado também no livro Código Limpo, pode-se dizer que software bem escrito não precisa ser documentado, mas mesmo que um software possua uma ótima arquitetura e fortes laços com técnicas clean code, apenas os devs têm o controle do fonte e conhecimento em traduzir para uma linguagem de alto nível, então se o usuário do seu produto não tem acesso a esse código ou então terá dificuldades de entendê-lo a documentação será efetiva para o esclarecimento do que a aplicação faz.
 
-Baseado também no livro Código Limpo, alguns podem dizer que software bem escrito não precisa ser documentado, mas mesmo que um software possua uma ótima arquitetura e fortes laços com técnicas clean code, apenas os devs têm o controle do fonte e conhecimento em traduzir para uma linguagem de alto nível, então se o usuário do seu produto não tem acesso a esse código ou então terá dificuldades de entendê-lo a documentação será efetiva para o esclarecimento do que a aplicação faz.
+Documentar o software faz parte do desenvolvimento do produto, mesmo em metodologias ágeis, por isso é preciso responder a seguinte pergunta: "o sofware funciona bem sem a documentação dele?" Se não, como pode ser considerado software funcionando se ele só irá funcionar adequadamente com as instruções do manual dele. Outra questão que deve-se fazer é "o valor da documentação é maior que o custo de criar e manter?" Os agilistas devem considerar escrever a documentação quando essa é a melhor maneira de atingir as metas relevantes.
 
-Documentar o software faz parte do desenvolvimento do produto, mesmo em metodologias ágeis, pois
+Como você vê na Figura 2, a estratégia ágil é adiar a criação de todos os documentos o mais tarde possível, criando-os antes de precisar deles por meio de uma prática chamada "documento atrasado". Por exemplo, as visões gerais do sistema são melhor escritas no final do desenvolvimento de uma versão porque você sabe o que realmente construiu. Da mesma forma, a maioria da documentação de usuário e suporte também é melhor escrita no final do ciclo de vida
 
-Eis que pergunto, o software funciona bem sem a documentação dele? O valor da documentação é maior que o custo de criar e manter?
-
-Os agilistas escrevem a documentação quando essa é a melhor maneira de atingir as metas relevantes.
-
-Como você vê na Figura 1, a estratégia ágil é adiar a criação de todos os documentos o mais tarde possível, criando-os antes de precisar deles por meio de uma prática chamada "documento atrasado". Por exemplo, as visões gerais do sistema são melhor escritas no final do desenvolvimento de uma versão porque você sabe o que realmente construiu. Da mesma forma, a maioria da documentação de usuário e suporte também é melhor escrita no final do ciclo de vida
+**Figura 2: curva de esforço na escrita da documentação**
 
 ![image](https://user-images.githubusercontent.com/27368585/150263512-b97ef20f-5ac9-476f-81ad-0b656cdcb84a.png)
 
