@@ -5,7 +5,9 @@ Um guia de uso ou manual do usuário tem como principal função ajudar os usuá
 Você tem a missão de fazer seu produto ser entendido pelo seus clientes, a documentação então deve servir como um instrumento para isso e não apenas serem páginas sem uso.
 Por isso também, uma documentação não deve ser feita com o objetivo de consertar um produto, nesses casos pode ser necessário escrever muito para avisar o usuário sobre todas as nuâncias e problemas que podem ocorrer. Antes disso, melhore seu produto para que a documentação seja mais objetiva possível e sob nenhuma circunstância, deve substituir um mal planejamento. Se algo precisa de vários páginas para minimamente ser usado, é melhor repensar o elemento daquele produto e torná-lo mais intuitivo.
 
-História do avião que precisava do manual das cores dos fios.
+![tupolev fora de controle](https://i.imgur.com/LVNzvxc.gif?noredirect)
+
+Uma investigação concluiu que a causa da perda de controle foi um mau funcionamento do sistema de piloto automático. Aparentemente, um engenheiro o conectou incorretamente, causando estragos nos controles do avião, que segundo Lito do canal Aviões e Músicas, as cores dos fios eram intuitivas para serem ligadas "verde com verde", "vermelho com vermelho"... Porém no manual dizia que deveria ser ligado diferente.
 
 ## História
 
