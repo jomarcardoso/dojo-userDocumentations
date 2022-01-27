@@ -7,7 +7,7 @@ Por isso também, uma documentação não deve ser feita com o objetivo de conse
 
 ![tupolev fora de controle](https://i.imgur.com/LVNzvxc.gif?noredirect)
 
-Nesse gif acima mostra um avião que logo após a decolagem perdeu o controle e precisou retornar para um pouso forçado. Uma investigação concluiu que a causa da perda de controle foi um mau funcionamento do sistema de piloto automático. Aparentemente, um engenheiro o conectou incorretamente, causando estragos nos controles do avião, que segundo Lito do canal Aviões e Músicas, as cores dos fios eram intuitivas para serem ligadas "verde com verde", "vermelho com vermelho"... Porém no manual dizia que deveria ser ligado diferente, um bom exemplo de como o manual não é a forma mais segura e eficiente de solucionar os problemas do produto.
+Nesse gif acima mostra um avião Tupolev Tu-154 que logo após a decolagem perdeu o controle e precisou retornar para um pouso forçado. Uma investigação concluiu que a causa da perda de controle foi um mau funcionamento do sistema de piloto automático. Aparentemente, um engenheiro o conectou incorretamente, causando estragos nos controles do avião, que segundo Lito do canal Aviões e Músicas, as cores dos fios eram intuitivas para serem ligadas "verde com verde", "vermelho com vermelho"... Porém no manual dizia que deveria ser ligado diferente, um bom exemplo de como o manual não é a forma mais segura e eficiente de solucionar os problemas do produto.
 
 ## História
 
@@ -216,6 +216,10 @@ https://blog.geekhunter.com.br/qual-e-a-importancia-da-documentacao-de-software/
 https://blog.db1.com.br/projetos-ageis-documentar-ou-nao/
 
 http://www.agilemodeling.com/essays/agileDocumentationBestPractices.htm
+
+https://www.youtube.com/watch?v=pnKm5ondK7Q&t=632s
+
+https://jalopnik.com/russian-pilots-once-landed-a-plane-in-one-piece-despite-1847261398
 
 ## Minhas teorias
 
