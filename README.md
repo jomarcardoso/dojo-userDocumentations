@@ -33,19 +33,15 @@ O Manifesto Ágil foi um marco para a organização e planejamento nos projetos 
 
 Baseado também no livro Código Limpo, pode-se dizer que software bem escrito não precisa ser documentado, mas mesmo que um software possua uma ótima arquitetura e fortes laços com técnicas clean code, apenas os devs têm o controle do fonte e conhecimento em traduzir para uma linguagem de alto nível, então se o usuário do seu produto não tem acesso a esse código ou então terá dificuldades de entendê-lo a documentação será efetiva para o esclarecimento do que a aplicação faz.
 
-Documentar o software faz parte do desenvolvimento do produto, mesmo em metodologias ágeis, por isso é preciso responder a seguinte pergunta: "o sofware funciona bem sem a documentação dele?" Se não, como pode ser considerado software funcionando se ele só irá funcionar adequadamente com as instruções do manual dele. Outra questão que deve-se fazer é "o valor da documentação é maior que o custo de criar e manter?" Os agilistas devem considerar escrever a documentação quando essa é a melhor maneira de atingir as metas relevantes.
+Documentar o software faz parte do desenvolvimento do produto, mesmo em metodologias ágeis, por isso é preciso responder a seguinte pergunta: "o sofware funciona bem sem a documentação dele?" Se não, como pode ser considerado software funcionando se ele só irá funcionar adequadamente com as instruções do manual dele. Outra questão que deve-se fazer é "o valor da documentação é maior que o custo de criar e manter?" Os agilistas devem considerar escrever a documentação quando essa é a melhor maneira de atingir as metas relevantes ou quando ela é parte fundamental e compõe o produto, pois do que adiantaria um produto entregue se ninguém sabe usá-lo.
 
-Como você vê na Figura 2, a estratégia ágil é adiar a criação de todos os documentos o mais tarde possível, criando-os antes de precisar deles por meio de uma prática chamada "documento atrasado". Por exemplo, as visões gerais do sistema são melhor escritas no final do desenvolvimento de uma versão porque você sabe o que realmente construiu. Da mesma forma, a maioria da documentação de usuário e suporte também é melhor escrita no final do ciclo de vida
+Como você vê na Figura 2, a estratégia ágil é adiar a criação de todos os documentos o mais tarde possível, criando-os antes de precisar deles por meio de uma prática chamada "documento atrasado". Por exemplo, as visões gerais do sistema são melhor escritas no final do desenvolvimento de uma versão porque você sabe o que realmente construiu. Da mesma forma, a maioria da documentação de usuário e suporte também é melhor escrita no final do ciclo de vida. Ao esperar para documentar as informações depois de estabilizadas, você reduz tanto o custo quanto o risco associado à documentação. O custo é reduzido porque você não perderá tempo documentando informações que mudam, o que, por sua vez, o motiva a atualizar a documentação. O risco é reduzido porque há uma chance significativamente menor de que sua documentação existente esteja desatualizada.
 
 **Figura 2: curva de esforço na escrita da documentação**
 
 ![image](https://user-images.githubusercontent.com/27368585/150263512-b97ef20f-5ac9-476f-81ad-0b656cdcb84a.png)
 
-Ao esperar para documentar as informações depois de estabilizadas, você reduz tanto o custo quanto o risco associado à documentação. O custo é reduzido porque você não perderá tempo documentando informações que mudam, o que, por sua vez, o motiva a atualizar a documentação. O risco é reduzido porque há uma chance significativamente menor de que sua documentação existente esteja desatualizada.
-
-Assim como no desenvolvimento ágil a documentação também pode ter seus ciclos, onde se escreve, apresenta, recebe os comentários e age sobre eles. Essa prática previne de se afastar do que seus clientes realmente precisam.
-
-Assim como qualquer produto no modelo ágil, a documentação não precisa ser perfeita, apenas boa o suficiente, então muitas vezes ela estará desatualizada em alguns pontos.
+Assim como qualquer produto no modelo ágil, a documentação não precisa ser perfeita, apenas boa o suficiente, então muitas vezes ela estará desatualizada em alguns pontos e da mesma forma como o resto do produto no modelo ágil, a documentação pode ter seus ciclos, onde se escreve, apresenta, recebe os comentários e age sobre eles. Essa prática previne de se afastar do que seus clientes realmente precisam.
 
 ## O que não documentar
 
@@ -118,6 +114,10 @@ Procure escrever um título que já deixe claro do que se trata aquele texto. E 
 > Guia de Acessibilidade Mobile
 > 
 > Este documento é um guia de referência para descobertas recentes e novas práticas que devem ser disseminadas em nosso projeto para continuamente melhorar a acessibilidade do mobile app. Neste momento, nossos esforços estão focados nos leitores de tela VoiceOver (iOS) e TalkBack (Android).
+
+### Resolva primeiro, detalhe depois
+
+Cada dia mais as pessoas esperam que a tecnologia resolva seus problemas e de forma rápida, por isso essa técnica rapidamente resolver o problema da pessoa é amplamente difundida no meio digital, vide o sucesso do Google que sua página principal não é mais um site de pesquisa e sim um resolvedor de problema onde pode-se peruntar qualquer coisa que ele te responde, seja um cálculo, significado da palavra, tradução, entre outros. Essa praticidade deve ser trazida para a documentação, a solução do problema da pessoa deve estar nas primeiras linhas seja do capítulo ou da página. A leitura extensa também é algo bom, porém ela não será feita no momento em que a pessoa procura solução e sim no momento em que ela quer aprofundar seus conhecimentos sobre o produto.
 
 ### Organização do conteúdo
 
