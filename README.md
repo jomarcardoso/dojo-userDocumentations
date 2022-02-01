@@ -115,27 +115,33 @@ Procure escrever um título que já deixe claro do que se trata aquele texto. E 
 > 
 > Este documento é um guia de referência para descobertas recentes e novas práticas que devem ser disseminadas em nosso projeto para continuamente melhorar a acessibilidade do mobile app. Neste momento, nossos esforços estão focados nos leitores de tela VoiceOver (iOS) e TalkBack (Android).
 
-### Resolva primeiro, detalhe depois
+### Resolver primeiro, detalhar depois
 
-Cada dia mais as pessoas esperam que a tecnologia resolva seus problemas e de forma rápida, por isso essa técnica rapidamente resolver o problema da pessoa é amplamente difundida no meio digital, vide o sucesso do Google que sua página principal não é mais um site de pesquisa e sim um resolvedor de problema onde pode-se peruntar qualquer coisa que ele te responde, seja um cálculo, significado da palavra, tradução, entre outros. Essa praticidade deve ser trazida para a documentação, a solução do problema da pessoa deve estar nas primeiras linhas seja do capítulo ou da página. A leitura extensa também é algo bom, porém ela não será feita no momento em que a pessoa procura solução e sim no momento em que ela quer aprofundar seus conhecimentos sobre o produto.
+Cada dia mais as pessoas esperam que a tecnologia resolva seus problemas e de forma rápida, por isso essa técnica rapidamente resolver o problema da pessoa é amplamente difundida no meio digital, vide o sucesso do Google que sua página principal não é mais um site de pesquisa e sim um resolvedor de problema onde pode-se peruntar qualquer coisa que ele te responde, seja um cálculo, significado da palavra, tradução, entre outros. Essa praticidade deve ser trazida para a documentação, a solução do problema da pessoa deve estar nas primeiras linhas seja do capítulo ou da página. A leitura extensa também é algo bom, porém ela não será feita no momento em que a pessoa procura solução e sim quando que ela quer aprofundar seus conhecimentos sobre o produto.
 
-### Organização do conteúdo
+A maioria das pessoas não irá ler a documentação e sim, escaneá-la para rapidamente encontrar o que precisa. Por isso é importante estabelecer uma hierarquia visual para facilitar o entendimento rápido e localização das informações. Após isso, deve-se testar a eficácia da hierarquia definida, verificando se é possível pular direto pra um tópico no meio do texto e entender o que está acontecendo ali. Muitas vezes numa instrução será preciso explicar ao usuário que ele precisa completar passos anteriores àquele para continuar sua tarefa e isso deve ficar claro no início da etapa. A aplicação mais útil aqui é explorar a formatação do texto para criar níveis de título e subtítulo e, assim, agrupar conjuntos macro e micro de informações. Outro recurso que pode facilitar a rápida procura é o uso de imagens, principalmente na forma de banners, para que o usuário consiga atráves de uma imagem resumida do que se trata aquele capítulo.
 
-Trazer sempre a informação mais simples e objetiva primeiro.
+Outro motivo para não misturar instruções com informações contextuais, é para não criar distrações para o usuário, até mesmo por questões de acessibilidade, como TDAH, então quando for necessário contextualizar é recomendado que seja feito antes da instrução.
 
- O documento grande provavelmente teria a maioria das informações necessárias para manter e aprimorar seu sistema, mas você confiaria nas informações contidas nele? O documento mais curto provavelmente não conteria as informações detalhadas de que você precisa, mas forneceria um mapa de onde você poderia mergulhar no código-fonte ou em outros documentos para obter detalhes.
- 
+> Uma das coisas que tive dificuldade de aprender, foi o Redux, além de ser um conceito mais complexo de entender, todos os materiais que eu encontrava, explicavam da mesma forma. Começava pelo detalhamento explicando todos os recursos da tecnologia para no fim ensinar o principal mecanismo e só nesse momento tudo poderia fazer sentido, porém isso era um problema para mim, pois sempre que eu chegava no final já havia esquecido o começo, ou seja, não seguia a hierarquia de resolver primeiro e detalhar depois. Outro problema dos materiais que lia, é que sempre que no meio do texto falava-se termos complexos que são usados no Redux, o que é um problema quando se está tentando aprender algo e descobre que possui outras lacunas de conhecimento a serem preenchidas, então para resolver isso os manuais já vinham com a explicação desses termos inseridas dentro do conteúdo, mas aí além de eu não entender por não conhecer o vocabulário, perdia totalmente o foco do aprendizado, para entender o significado daquele termo. Tempos depois descobri que se não falassem desses termos o meu entendimento seria o mesmo, então não precisava nem mencioná-los, nem explicá-los.
+
  Você deve se esforçar para viajar o mais leve possível, escrevendo apenas na documentação suficiente para a situação em questão, que é apenas boa o suficiente para cumprir seu propósito.
+
+O documento grande provavelmente teria a maioria das informações necessárias para manter e aprimorar seu sistema, mas você confiaria nas informações contidas nele? O documento mais curto provavelmente não conteria as informações detalhadas de que você precisa, mas forneceria um mapa de onde você poderia mergulhar no código-fonte ou em outros documentos para obter detalhes.
+
+### Informação fácil de
+
+
+
+### Saltos de conteúdos
+ 
+
  
  Fazer link de conteúdos e não repetí-los, isso evita uma sobrescrita de informações desatualizadas. (ver sobre evitar saltos)
 
-**Hierarquia da informação:**
+### Hierarquia da informação
 
 A melhor forma de apresentar o conteúdo pode variar dependendo do tipo de processo a ser descrito. Instruções passo a passo ficam mais claras se enumeradas; opções de ação sem ordem definida ficam bem organizadas em tópicos; um assunto menos técnico pode ficar bem resolvido com um FAQ, e assim por diante. Na dúvida, teste mais de um formato antes de definir.
-
-
-
-Não misturar instruções com informações contextuais, se for preciso contextualizar, fazer antes das instruções (exemplo redux que trouxe).
 
 Não escrever listas muito extensas, no máximo 10 itens. Se possível divida a lista em mais tópicos.
 
@@ -144,9 +150,7 @@ Instruções de passo a passo são aquelas que o usuário deve seguir uma sequê
 
 O começo e o fim das instruções devem ser bem definidos, iniciando por um título que descreve a instrução e ao fim sempre deixar bem claro quando acabaram as instruções para o usuário não ficar se pergutando se falta alguma coisa ou para onde ele segue naquele momento.
 
-A maioria das pessoas não irá ler a documentação e sim, escaneá-la para rapidamente encontrar o que precisa. Por isso é importante estabelecer uma hierarquia visual para facilitar o entendimento rápido e localização das informações. Após isso, deve-se testar a eficácia da hierarquia definida, verificando se é possível pular direto pra um tópico no meio do texto e entender o que está acontecendo ali. Muitas vezes numa instrução será preciso explicar ao usuário que ele precisa completar passos anteriores àquele para continuar sua tarefa e isso deve ficar claro no início da etapa.
 
- A aplicação mais útil aqui é explorar a formatação do texto para criar níveis de título e subtítulo (como os headings de h1 a h6 no HTML), e assim agrupar conjuntos macro e micro de informações. Podemos também usar negrito, itálico e até mesmo cores (como o vermelho em pontos de atenção) para adicionar entonação ao texto, da mesma forma que faríamos no discurso falado.
 
 ### Índice e pesquisa
 
