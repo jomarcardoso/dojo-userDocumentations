@@ -53,17 +53,25 @@ Um guia do usuário deve sempre responder a pergunta "como eu faço... ?" Então
 
 ## 2. Entenda o público para o qual está escrevendo a documentação
 
-Você deve estar próximo do seu público, deve ouvir as necessidades deles e entender o que eles realmente precisam.
+Quem escreve a documentação deve estar próximo do seu público, deve ouvir as necessidades deles e entender o que eles realmente precisam, deve entender as perguntas do usuário, e quando for escrever, colocar-se no lugar dele. Antecipar perguntas é basicamente um exercício de empatia, tentar antecipar as dúvidas que possam surgir ao longo do texto e já respondê-las no mesmo local de aparecimento.
 
-Não adianta escrever algo que não será usado. Entenda as perguntas do usuário, e quando for escrever, coloque-se no lugar dele.
+Outra coisa importante é identificar o conhecimento dos usuários que irão consumir o produto.
 
-Outra coisa importante é identificar o conhecimento dos usuários. Essa doc será consumida por pessoas dentro de um time numa empresa, ou pelo público em geral num projeto open source? 
+### Documentação única
+
+O ideal de uma documentação é servir tanto para pessoas experientes como as recém chegadas na empresa, para isso, muitas vezes é preciso adaptar o nível técnico ou detalhamento de acordo com o contexto de quem lerá, mantendo o texto tão didático quanto possível para todos os públicos. Para essa documentação única deve-se sempre se atentar de que o "óbvio" é relativo; às vezes, achamos que qualquer um entende aquilo que consideramos simples, mas isso nem sempre é verdade. Uma documentação única é mais fácil de manter e tem menos chances de ficar desatualizada.
+
+Usuários especialistas conhecem os termos, as suposições e os atalhos da área de assunto, mas como a documentação será para todos os níveis, deve-se evitar saltos lógicos ou de conteúdo que os não especialistas não entendam. Possivelmente precisa-se afirmar o óbvio, porque nem todos público conhecem todo o assunto, no entanto, não forneça informações desnecessárias, então se uma frase for suficiente, não inclua uma página de capturas de tela.
+
+### Documentações separadas
+
+
+
 
 Após identificadas as personas pode ser necessário criar documentações separadas.
 
-O ideal de uma documentação é servir tanto para pessoas experientes como as recém chegadas na empresa, para isso, muitas vezes é preciso adaptar o nível técnico ou detalhamento de acordo com o contexto de quem lerá, mantendo o texto tão didático quanto possível para todos os públicos. Para essa documentação única deve-se sempre se atentar de que o "óbvio" é relativo; às vezes, achamos que qualquer um entende aquilo que consideramos simples, mas isso nem sempre é verdade.
 
-Você é um especialista que conhece os termos, as suposições e os atalhos da área de assunto. Não dê saltos lógicos ou de conteúdo que os não especialistas não entendam. Possivelmente, você deve "afirmar o óbvio", porque o público não conhece o assunto, no entanto, não forneça informações desnecessárias, então se uma frase for suficiente, não inclua uma página de capturas de tela.
+
 
 Há diversas maneiras de determinar como satisfazer suas necessidades com sua documentação.
 
@@ -71,8 +79,7 @@ Há diversas maneiras de determinar como satisfazer suas necessidades com sua do
 - Observe a documentação existente. A documentação de versões anteriores do software, bem como especificações funcionais, fornecem alguma indicação do que o usuário precisará saber para usar o programa. Tenha em mente, no entanto, que **usuários finais não se interessam em como o programa funciona, mas sim pelo que ele pode fazer por elas**.
 - Identifique as tarefas necessárias para realizar o trabalho e as que precisam ser realizadas antes delas.
 
-
-- Antecipar perguntas: É basicamente um exercício de empatia: tente antecipar as dúvidas que possam surgir ao longo do texto e já respondê-las no mesmo local de aparecimento.
+Não adianta escrever algo que não será usado.
 
 ## 3. Determine os formatos apropriados para a documentação
 
