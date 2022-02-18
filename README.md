@@ -6,8 +6,11 @@ Esse documento tem como objetivo instruir equipe de desenvolvimento de software 
 - [história](#history)
 - [documentação de conhecimentos](#knowledge)
 - [Metodologia ágil na produção de uma documentação](#agile)
+- [Público alvo](#public)
 - [Formatos de documentação](#format)
 - [Estrutura de um documento](#structure)
+- [Conclusão](#conclusion)
+- [Referências](#references)
 
 ## <a name="introduction"></a>Introdução
 
@@ -54,31 +57,21 @@ Como você vê na Figura 2, a estratégia ágil é adiar a criação de todos os
 
 Assim como qualquer produto no modelo ágil, a documentação não precisa ser perfeita, apenas boa o suficiente, então muitas vezes ela estará desatualizada em alguns pontos e da mesma forma como o resto do produto no modelo ágil, a documentação pode ter seus ciclos, onde se escreve, apresenta, recebe os comentários e age sobre eles. Essa prática previne de se afastar do que seus clientes realmente precisam.
 
-## 1. Determine os propósitos empresariais da documentação
-
-Um guia do usuário deve sempre responder a pergunta "como eu faço... ?" Então se o guia ficar muito extenso irá atrapalhar nessa resposta.
-
-## 2. Entenda o público para o qual está escrevendo a documentação
+## Público alvo
 
 Quem escreve a documentação deve estar próximo do seu público, deve ouvir as necessidades deles e entender o que eles realmente precisam, deve entender as perguntas do usuário, e quando for escrever, colocar-se no lugar dele. Antecipar perguntas é basicamente um exercício de empatia, tentar antecipar as dúvidas que possam surgir ao longo do texto e já respondê-las no mesmo local de aparecimento.
 
-Outra coisa importante é identificar o conhecimento dos usuários que irão consumir o produto.
+Outra coisa importante é identificar o conhecimento dos usuários que irão consumir o produto. Essa questão é importante para definir como será estruturado os documentos, por exemplo começando gradativamente fácil e ficando mais complexo, o que é útil para usuários mais leigos, ou então começar de um jeito menos instrutivo e mais prático, o que pode ser mais interessante para usuários mais experientes. Outra questão que deve ser respondida é se há a necessidade de separar a documentação, seja ela por nível de conhecimento ou por diferença muito grande nas áreas de atuação das equipes que a consomem.
 
 ### Documentação única
 
 O ideal de uma documentação é servir tanto para pessoas experientes como as recém chegadas na empresa, para isso, muitas vezes é preciso adaptar o nível técnico ou detalhamento de acordo com o contexto de quem lerá, mantendo o texto tão didático quanto possível para todos os públicos. Para essa documentação única deve-se sempre se atentar de que o "óbvio" é relativo; às vezes, achamos que qualquer um entende aquilo que consideramos simples, mas isso nem sempre é verdade. Uma documentação única é mais fácil de manter e tem menos chances de ficar desatualizada.
 
-Usuários especialistas conhecem os termos, as suposições e os atalhos da área de assunto, mas como a documentação será para todos os níveis, deve-se evitar saltos lógicos ou de conteúdo que os não especialistas não entendam. Possivelmente precisa-se afirmar o óbvio, porque nem todos público conhecem todo o assunto, no entanto, não forneça informações desnecessárias, então se uma frase for suficiente, não inclua uma página de capturas de tela.
+Usuários especialistas conhecem os termos, as suposições e os atalhos da área de assunto, mas como a documentação será para todos os níveis, deve-se evitar saltos lógicos ou de conteúdo que somente os especialistas entendam. Possivelmente precisa-se afirmar o óbvio, porque nem todos público conhecem todo o assunto, no entanto, não forneça informações desnecessárias, então se uma frase for suficiente, isso irá atrapalhar muito a leitura de usuários que buscam informações específicas para resolver algum problema.
 
 ### Documentações separadas
 
-
-
-
 Após identificadas as personas pode ser necessário criar documentações separadas.
-
-
-
 
 Há diversas maneiras de determinar como satisfazer suas necessidades com sua documentação.
 
@@ -88,7 +81,7 @@ Há diversas maneiras de determinar como satisfazer suas necessidades com sua do
 
 Não adianta escrever algo que não será usado.
 
-## <a name="format"></a>3. Determine os formatos apropriados para a documentação
+## <a name="format"></a>Formato
 
 A documentação de software pode ser estruturada em 1 ou 2 formatos, o manual de referência e o guia de usuário. Às vezes uma combinação de formatos é a melhor abordagem.
 
@@ -98,6 +91,10 @@ junto ao produto, como uma dica de uso ou um informações vindas de um botão d
 Um formato de guia de usuário explica como usar o programa para realizar uma tarefas em particular. Diferente do manual de referência o guia foca nos casos de uso do usuário e não nas partes isoladas do produto, por isso os guias geralmente tomam a forma de tutoriais, com um resumo das tarefas a serem realizadas na introdução e instruções dadas nos passos numerados. Muitas vezes o guia do usuário pode ter vídeos para cada tarefa, mostrando os passos que o usuário deve seguir, como um passo a passo de uma receita mostrada na TV.
 
 Geralmente cada tópico do guia é independente do seu contexto, focado apenas na atividade atual, para que o usuário consiga sem muita instrução periférica resolver o seu problema. Sempre que possível evite saltos de conteúdos, eles dificultam o entendimento, as vezes repetir um pouco do conteúdo é melhor que tirar o foco do usuário. Voltando no exemplo da receita, muito mais fácil toda a receita em um lugar do que buscar em cada página como se faz cada camada. Em casos em que precisa da realização de uma tarefa prévia ou a repetição de conteúdo ficar muito extensa é possível fazer links para esses outros materiais. Apesar de cada tópico ser autosuficiente deve-se oferecer ao usuário a possibilidade de visitar os manuais de referência dos elementos envolvidos na respectiva tarefa ou então ter links para outros guias complementares.
+
+## 1. Determine os propósitos empresariais da documentação
+
+Um guia do usuário deve sempre responder a pergunta "como eu faço... ?" Então se o guia ficar muito extenso irá atrapalhar nessa resposta.
 
 ## 4. Decida quais formas a documentação deve tomar.
 
