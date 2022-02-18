@@ -1,4 +1,15 @@
-# Documentação de software para usuários 
+# Documentação de software para usuários
+
+Esse documento tem como objetivo instruir equipe de desenvolvimento de software sobre a necessidade ou não de uma documentação daquilo que está sendo programado e se houver a necessidade, como ela deve executar, organizar, estruturar e dispor esse material para os seus usuários
+
+- [introdução](#introduction)
+- [história](#history)
+- [documentação de conhecimentos](#knowledge)
+- [Metodologia ágil na produção de uma documentação](#agile)
+- [Formatos de documentação](#format)
+- [Estrutura de um documento](#structure)
+
+## <a name="introduction"></a>Introdução
 
 Um guia de uso ou manual do usuário tem como principal função ajudar os usuários a entenderam o seu produto. Um manual de software pode ser para apresentar uma aplicação, uma biblioteca, um design system, entre outros. Apesar de apresentarem as informações de forma diferente todos esses guias possuem assuntos comuns, como usuário alvo, objetivo do documento, formato a ser disponibilizado e vários elementos comuns como dúvidas comuns, suporte... Além de instruir o usuário a documentação serve também para divulgar o produto, melhorar a imagem dele e principalemente reduzir custos de suporte, que muitas vezes envolve o tempo dos desenvolvedores que trabalham no respectivo produto.
 
@@ -11,7 +22,7 @@ Por isso também, uma documentação não deve ser feita com o objetivo de conse
 
 Nesse gif da Figura 1 mostra um avião que logo após a decolagem perdeu o controle e precisou retornar para um pouso forçado. Uma investigação concluiu que a causa da perda de controle foi um mau funcionamento do sistema de piloto automático. Aparentemente, um engenheiro o conectou incorretamente, causando estragos nos controles do avião, que segundo Lito do canal Aviões e Músicas, as cores dos fios eram intuitivas para serem ligadas "verde com verde", "vermelho com vermelho"... Porém no manual dizia que deveria ser ligado diferente, um bom exemplo de como o manual não é a forma mais segura e eficiente de solucionar os problemas do produto.
 
-## História
+## <a name="history"></a>História
 
 O primeiro e mais importante marco da sociedade para a criação das documentações foi a criação da escrita Cuneiforme, Figura 1, entre 4000 e 3200 a.C. Antes dos sumérios desenvolverem a escrita, a maneira de transmitir o conhecimento dos povos pré-históricos era predominantemente oral e por isso havia poucos registros, além das pinturas rupestres, deixados por eles. Nessa época quando o transmissor falessia, ficaria a cargo dos ouvintes continuar a transmitir e caso acontecesse alguma fatalidade com aquele povo, o conhecimento todo deixaria de existir. Um exemplo de povo que passou por essa transição foi o povo hebreu que desde a sua origem com seu o patricar Abraão até antes de aproximarem dos egípcios não tinham o conhecimento da escrita e após Moisés aprender com os egípcios, fez um registro retroativo de tudo que foi passado para ele de forma oral, por isso essas histórias eram pobres em detalhes e com datas normalmente zeradas.
 
@@ -21,13 +32,13 @@ O primeiro e mais importante marco da sociedade para a criação das documentaç
 
 Infelizmente, várias empresas do século XXI têm o mesmo problema de povos da pré-escrita. A informação de sistemas complexos, aliada a códigos com grande débito técnico, é transmitida por via oral, formando silos de conhecimento em forma de colaboradores. Quando esses silos estão inacessíveis, fica a cargo dos desenvolvedores fazerem um trabalho de arqueólogo e escavar o código, para tentar entender o que as pessoas que o escreveram queriam dizer.
 
-## Documentação de conhecimentos
+## <a name="knowledge"></a>Documentação de conhecimentos
 
 Antes de falarmos sobre o que podemos documentar, precisamos entender o conceito de conhecimento tácito e explícito, dividido pela filosofia. O conhecimento tácito é aquele que a pessoa adquiriu ao longo da vida, pela experiência. Geralmente é difícil de ser formalizado ou explicado a outra pessoa, pois é subjetivo e inerente às habilidades de uma pessoa. Já o conhecimento explícito é o conhecimento que já foi ou pode ser articulado, codificado e armazenado de alguma forma em alguma mídia. Ele pode ser prontamente transmitido para outras pessoas. Baseado nesse entendimento, entende-se que a documentação é a formalização dos conhecimentos que pode ser explicitado em alguma mídia. Para começar uma documentação é muito mais prático buscar todo conhecimento explícito, porém conforme avança a projeto de documentar, deve-se tentar formalizar qualquer conhecimento tácito sobre o produto e evitar casos em que somente alguns sabem mexer ou resolver um problema e ele não está descrito em lugar algum.
 
 Documentação é o conjunto de todos documentos, que são todas as fontes contendo informações que ajudem a tomar decisões, comuniquem decisões tomadas, registrem assuntos de interesse da organização ou do indivíduo. Tem como característica reunir informações escritas acumuladas numa série sucessiva de anotações, quando dizem respeito a uma organização ou a um indivíduo, assumem a característica de documento. O conjunto dos documentos passa a constituir a documentação, com fins comerciais, industriais, jurídicos, escolares, etc.
 
-## Metodologia ágil e documentação
+## <a name="agile"></a>Metodologia ágil na produção de uma documentação
 
 O Manifesto Ágil foi um marco para a organização e planejamento nos projetos de sofware. Ele veio solucionar o problema de planejar tudo no começo, executar e em algum momento perceber que o que está sendo feito não era o esperado. Do Manifesto Ágil também vem a frase "Software em funcionamento mais que documentação abrangente". Essa afirmação pode ser mal interpretada, como a documentação não ser algo importante, mas entendo o ágil, sabe-se que o objetivo é priorizar a entrega do produto antes de qualquer outra coisa e não como nos antigos modelos de projeto de sofware onde criava-se uma vasta documentação para só depois começar o desenvolvimento. Gerar documentação inicial pode ser um grande problema. A ideia inicial, até o fim da concepção, pode pivotar de tantas maneiras que irá demandar alto esforço para manter a documentação atualizada, ou até ser completamente descartada e refeita do zero. Tirando a documentação de especificações, opte por sempre documentar o produto no final.
 
@@ -42,10 +53,6 @@ Como você vê na Figura 2, a estratégia ágil é adiar a criação de todos os
 ![image](https://user-images.githubusercontent.com/27368585/150263512-b97ef20f-5ac9-476f-81ad-0b656cdcb84a.png)
 
 Assim como qualquer produto no modelo ágil, a documentação não precisa ser perfeita, apenas boa o suficiente, então muitas vezes ela estará desatualizada em alguns pontos e da mesma forma como o resto do produto no modelo ágil, a documentação pode ter seus ciclos, onde se escreve, apresenta, recebe os comentários e age sobre eles. Essa prática previne de se afastar do que seus clientes realmente precisam.
-
-## O que não documentar
-
-**O óbvio:** documentar algo apenas por ficar bonito na página principal da wiki da empresa não irá valer a pena, não irá agregar valor e será mais uma informação para manter (ou esquecer).
 
 ## 1. Determine os propósitos empresariais da documentação
 
@@ -81,7 +88,7 @@ Há diversas maneiras de determinar como satisfazer suas necessidades com sua do
 
 Não adianta escrever algo que não será usado.
 
-## 3. Determine os formatos apropriados para a documentação
+## <a name="format"></a>3. Determine os formatos apropriados para a documentação
 
 A documentação de software pode ser estruturada em 1 ou 2 formatos, o manual de referência e o guia de usuário. Às vezes uma combinação de formatos é a melhor abordagem.
 
@@ -157,8 +164,6 @@ Instruções de passo a passo são aquelas que o usuário deve seguir uma sequê
 
 O começo e o fim das instruções devem ser bem definidos, iniciando por um título que descreve a instrução e ao fim sempre deixar bem claro quando acabaram as instruções para o usuário não ficar se pergutando se falta alguma coisa ou para onde ele segue naquele momento.
 
-
-
 ### Índice e pesquisa
 
 Arquivos de ajuda devem ser indexados e pesquisáveis por palavras chave para que os usuários encontrem a informação desejada rapidamente. Apesar de ferramentas de escrita poderem gerar índices automaticamente, é melhor fazê-lo manualmente, usando termos que os usuários provavelmente buscarão.
@@ -174,11 +179,15 @@ Screenshots, gifs, ilustrações, gráficos, memes… Escolha a melhor forma de 
 Quando for possível, crie um exemplo de uso do processo descrito para ilustrar sua aplicação na prática. Esse detalhe sempre fará toda a diferença na clareza da mensagem.
 
 
-## 6. Oque escrever
+## 6. Oque documentar e o que não documentar
 
 Em docs mais técnicas, uma seção de Troubleshooting (solução de problemas) pode ser especialmente útil para documentar erros e obstáculos conhecidos e mostrar o caminho para contorná-los. É importante manter essa seção atualizada, visto que não é incomum passarmos mais tempo tentando solucionar bugs do que desenvolvendo de fato.
 
 Na maioria dos casos, é interessante que ao final do documento conste um canal de contato para sanar dúvidas e enviar sugestões. Se for um Readme no GitHub, essa seção também pode orientar sobre como e quando abrir uma issue no repositório.
+
+### O que não documentar
+
+**O óbvio:** documentar algo apenas por ficar bonito na página principal da wiki da empresa não irá valer a pena, não irá agregar valor e será mais uma informação para manter, além de fazer o usuário perdeu seu tempo e até a confiança na importância da documentação.
 
 ## Divulgação
 
